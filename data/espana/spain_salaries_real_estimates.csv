@@ -1,0 +1,248 @@
+﻿idx,title,company,region,ccaa,role,experience,salary_est_eur,regional_mult,is_data,is_it_software,gdp_per_capita
+0,Data Scientist,Mediktor,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+1,Analista de datos,Gift Campaign,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,False,False,28590.0
+2,Científico de datos,KH Lloreda,Catalonia,Catalonia,backend,Mid,38130.55,1.0741,False,False,28590.0
+3,Data Scientist,ByRatings,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+4,Data Governance Analyst,Zurich Insurance,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+5,Data Analyst,Data Analyst,,Total Nacional,data_analyst,Mid,36500.0,1.0,True,False,
+6,Data Scientist – Marketing & Network Analytics,King,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+7,Principal Applied & Data Scientist,Microsoft,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+8,Analista de Datos Power BI.,Onclusive,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+9,Game Data Scientist/Analyst - Barcelona Gaming Giant,Touchpoint Resource Ltd,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+10,Gerente de Auditoría de sistemas de información y analista de datos,Grant Thornton España,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,False,False,28590.0
+11,Data Analyst,SDG Group Iberia,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+12,Pricing Data Analyst,MANGO,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+13,"Global Analytics, Data and Automation Scientist",Alcon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+14,Data Scientist,Ocado Technology,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+15,"Data Scientist, Software Development-ESP",CloudBlue,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,True,28590.0
+16,Data Scientist - Digital Finance Hub,Novartis España,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+17,Data Scientist,Chi Square Analytics,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+18,Advanced Analytics Analyst,Sanofi,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+19,Data Analyst - Routing (GlovoMaps),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+20,Data Scientist,Siemens Energy,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+21,Product Data Scientist,Preply,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+22,Data Scientist (m/f/d),ZF Group,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+23,Data Scientist,eDreams ODIGEO,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+24,Data Scientist,Kraz (Viko Group),Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+25,Data & Applied Scientist II - WebXT,Microsoft,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+26,Data Scientist - Eternal Games,King,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+27,"Global Analytics, Data and Automation Scientist",Alcon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+28,Data Scientist,Sanofi,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+29,Data analyst,Sanofi,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+30,Data Analytics,Deloitte,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+31,Data Scientist,Allianz Technology,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+32,Data Scientist (Experimentation),Adevinta,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+33,DATA SCIENTIST,CaixaBank Tech,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+34,Data Scientist Intern,Roche,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+35,Data scientist,Softonic,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+36,Data Analyst,Deloitte,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+37,Analista Predictivo/a,Zurich Insurance,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,False,False,28590.0
+38,Data analyst,Sanofi,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+39,Data Scientist,Werfen,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+40,Auditor/a Junior de Sistemas de información y Analista de Datos,Grant Thornton España,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,False,False,28590.0
+41,Actuario Data Scientist,VidaCaixa,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+42,Data Scientist,Zurich Insurance,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+43,Data Scientist - Casual Games,Voodoo,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+44,Data Analyst,Bayer,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+45,Analista de Datos,LLYC,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,False,False,28590.0
+46,"Data Scientist, Marketing",Wallapop,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+47,Data Scientist Personalization,MANGO,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+48,Energy Markets Data Scientist,Siemens Energy,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+49,Data Scientist / BI Consultant,Robert Walters,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+50,Data Mgmt Analyst,Sanofi,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+51,Game Data Scientist,Socialpoint,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+52,Junior Business Intelligence Support Specialist,Zurich Insurance,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,True,False,28590.0
+53,Business/Data Analyst (Power BI),Morgan Philips Group,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+54,Consultor Junior Business Intelligence & Analytics,EY,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,True,False,28590.0
+55,Data Analyst Expert,TDCX,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+56,Junior Data Engineer,Sogeti,Catalonia,Catalonia,data_engineer,Junior,33297.1,1.0741,True,True,28590.0
+57,Data Analyst,Dow Jones,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+58,Big Data Engineer,Dell Technologies,,Total Nacional,data_engineer,Mid,43500.0,1.0,True,True,
+59,Data Scientist,Zurich Insurance,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+60,Data Engineer,Deloitte,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+61,Data Analyst - Partners & Brands (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+62,Privacy Operations Data Analyst,HP,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+63,Analista Predictivo,Zurich Insurance,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,False,False,28590.0
+64,Data Analyst,Fenarc,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+65,Data Analyst - Partner Ops Excellence (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+66,Senior Data Analyst,GBfoods (Corporate Brand of Gallina Blanca),Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+67,Reporting Data Analyst,Brico Depôt Iberia (Grupo Kingfisher),Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+68,Data Analyst,MANGO,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+69,Data Analyst - Fraud (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+70,Data Engineer,CaixaBank Tech,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+71,Senior Reporting Data Analyst,Zurich Insurance,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+72,Reporting Data Analyst/Developer,PPG,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+73,Data Analyst (Power BI & SQL),Michael Page,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+74,Consultor BI Microsoft,,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+75,GO! Graduate IoT & Data Analysis,Essity,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,True,False,28590.0
+76,Data Analyst,Grupo Planeta,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+77,Senior Data Analyst - vpTech Data team,Veepee,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+78,Analist funcional BI,TSD Consulting,Catalonia,Catalonia,backend,Mid,38130.55,1.0741,True,False,28590.0
+80,Data Analyst (m|f|d) at Dein Traumjob wartet!,join.com,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+81,Data Engineer,Pronovias,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+82,Data Analyst - Scheduling (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+83,Game Data Analyst,Socialpoint,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+84,Desarrollador Big Data (Girona),Accenture España,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+85,Incubation Senior Finance & Data Analyst,HP,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+86,GO! Graduate IT & Data Analysis,Essity,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,True,False,28590.0
+87,Data Analyst - A/B testing,eDreams ODIGEO,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+88,Master Data Analyst,Tech Data,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+89,Data Engineer (They/He/She),Adsmurai,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+90,Senior Quantitative Analyst,Adecco,Catalonia,Catalonia,backend,Senior,51556.8,1.0741,True,False,28590.0
+91,Finance Data Analyst (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+92,Data analyst - Food Solutions (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+93,Data Analyst - Qcommerce - Sales,Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+94,Data Engineer,Sanofi,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+95,Mid / Senior Data Analyst - Central Data team,Factorial HR,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+96,Data & Insights Analyst,Nestlé Nespresso SA,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+97,Data Analyst,Newrest,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+98,Senior Data Analyst,Veepee,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+99,"DATA ANALYST – We have tons of data, what can you do with it ?",Reflex Leads,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+100,Fraud Data Analyst (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+101,Data Analyst - Acquisition (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+102,Senior Global Data Analyst,The Valley Talent,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+103,Crew Data Analyst,Norwegian,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+104,Business Data Analyst for Tax Engine,Amazon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+105,Data Analyst - Food Innovation,Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+106,Data Analyst - Talent Team (m/f/d),TIER Mobility,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+107,Data Analyst - Food Innovation (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+108,Data Engineer,Remote,,Total Nacional,data_engineer,Mid,43500.0,1.0,True,True,
+109,Senior Data Analyst,Tilting Point,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+110,Business Intelligence Analyst (Barcelona),Rover.com,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+111,JUNIOR DATA ENGINEER,Eurecat - Centro Tecnológico de Catalunya,Catalonia,Catalonia,data_engineer,Junior,33297.1,1.0741,True,True,28590.0
+112,Data Analyst - Q-Commerce - Sales,Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+113,Lead Data Analyst - Crypto,Revolut,,Total Nacional,data_analyst,Senior,49000.0,1.0,True,False,
+114,Senior Data Scientist - Pricing analytics,HP,Catalonia,Catalonia,data_scientist,Senior,67131.25,1.0741,True,False,28590.0
+115,Data Engineer,Accenture España,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+116,Head of Data Analytics (They /She/ He),Glovo,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+117,Business Intelligence Consultant,Schneider Electric,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+118,Business Intelligence Analyst,Pronovias,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+119,Data Analyst - Delivery Flow Team (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+120,Software Data Engineer,Aetion,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+121,Celonis Data Analyst,MediaMarkt Iberia,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+122,Product Data Analyst (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+123,DATA ENGINEER (H/M),Capgemini Engineering,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+124,"Customer Engineer, Data Analytics, Google Cloud",Google,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+125,Game Data Analyst (M/F),Madbox,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+126,Data analyst,Sopra Steria,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+127,Senior Data Analyst - BI Team,Veepee,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+128,Data Analyst,Festo España,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+129,Data Engineer (Madrid o Barcelona),Innova-tsn,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+130,DATA ENGINEER (H/M),Capgemini,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+131,Data engineer - MDM,Sanofi,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+132,"Data Analyst, Pricing-ESP",Ingram Micro,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+133,"Strategic Data Analyst, International - Remote",Boats Group,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+134,Digital Data Engineer,Sanofi,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+135,Intelligence Analyst (Remote),CrowdStrike,Catalonia,Catalonia,backend,Mid,38130.55,1.0741,True,False,28590.0
+136,Vulnerability Intelligence Analyst (Remote),CrowdStrike,Catalonia,Catalonia,backend,Mid,38130.55,1.0741,True,False,28590.0
+137,Junior Data Engineer,Socialpoint,Catalonia,Catalonia,data_engineer,Junior,33297.1,1.0741,True,True,28590.0
+138,Senior Data Analyst - Product,FREE NOW,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+139,CRM-Data Analyst,imagin,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+140,(Senior) Data Analyst m/f/d I on-site or remote,BestSecret,,Total Nacional,data_analyst,Senior,49000.0,1.0,True,False,
+141,Data Engineer,AXA Partners,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+142,Data Analyst - Product,FREE NOW,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+143,Data Engineer Internship,Zurich Insurance,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+144,Data Engineer BI,Page Personnel,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+145,Data Engineer BI,Page Personnel,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+146,Senior Data Analyst,Reloadly,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+147,Biostatistician II,Veristat,Catalonia,Catalonia,mobile,Mid,41889.9,1.0741,False,False,28590.0
+148,Data Analyst,Grupo Planeta,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+149,Digital Marketing Data Analyst/Data Scientist,HP,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+150,Business Data Analyst (They/She/He),Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+151,Junior Data Analyst,TravelPerk,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,True,False,28590.0
+152,Data Scientist - Insurance / Financial Services Background,Zurich Insurance,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+153,EMEA BI Sr Data Analyst,Ingram Micro,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+154,Senior Data Analyst,Dynatrace,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+155,Data Analyst,AHEAD TECHNOLOGY,,Total Nacional,data_analyst,Mid,36500.0,1.0,True,False,
+156,"Senior Data Analyst (Bangkok Based, relocation provided)",Agoda,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+157,Junior Solution Engineer DWH/BI,Zurich Insurance,Catalonia,Catalonia,backend,Junior,26852.5,1.0741,True,True,28590.0
+158,Research Data Scientist,Meta,,Total Nacional,data_scientist,Mid,42000.0,1.0,True,False,
+159,Data Engineer,Amazon,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+160,Ad Operations Data Analyst,Younited,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+161,Analista Funcional BI,TSD Consulting,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+162,"Data Analyst, Pricing-ESP",Ingram Micro,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+163,Data Engineer - BI,Glovo,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+164,Data Engineer,Amazon,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+165,Data Engineer,Robert Walters,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+166,Data Governance Analyst - Europe remote,Cimpress,,Total Nacional,data_analyst,Mid,36500.0,1.0,True,False,
+167,People Data Analyst,eDreams ODIGEO,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+168,Data Engineer,Amazon,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+169,Data Engineer,Siemens Energy,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+170,Product Data Analyst (f/m/d),Homelike,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+171,Data Engineer,Amazon,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+172,Business Intelligence Engineer,Amazon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+173,Data Engineer,DNV,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+174,Data Engineer,PepsiCo,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+175,Data Visualization Engineer,Sanofi,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+176,Credit Intelligence Analyst,Tech Data,Catalonia,Catalonia,backend,Mid,38130.55,1.0741,True,False,28590.0
+177,Data Analyst- Finance,TravelPerk,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+178,BI Designer and Data Visualization,HP,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+179,"Business Intelligence Engineer, EMEA GES",Amazon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+180,Junior Data Scraping Engineer (Python),Flanks,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,True,True,28590.0
+181,Data Engineer BI,Michael Page,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+182,Business Intelligence Consultant,Mur&Partners,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+183,Business Intelligence Analyst (Senior),Thunes,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+184,Business Intelligence Engineer,Amazon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+185,Analista de datos ELK,Alisys,,Total Nacional,data_analyst,Mid,36500.0,1.0,False,False,
+186,Business Intelligence Consultant,Mur&Partners,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+187,BI Consultant,,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+188,Data Engineer,Page Personnel,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+189,Junior Data Scientist - Python,Between Technology,Catalonia,Catalonia,data_scientist,Junior,32223.0,1.0741,True,True,28590.0
+190,IT | Data Analyst | Cataluña,ALTEN,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+191,Data Engineer Junior - BI,Kiteris,Catalonia,Catalonia,data_engineer,Junior,33297.1,1.0741,True,True,28590.0
+192,Data Engineer BI,Michael Page,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+193,BI Data Analyst (M/F),Madbox,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+194,Data Analyst,Applus+ Laboratories,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+195,Data Analyst - Qcommerce - Partner Operations,Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+196,Business Data Analyst for Tax Engine,Amazon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+197,Marketing Data Analyst,CloudBlue,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+198,Data Engineer - BI (They/She/He),Glovo,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+199,Business Data Analyst for Tax Engine,Amazon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+200,Senior Product Data Analyst,BLING,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+201,BI Specialist,JLL,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+202,Data Analyst,Housfy,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+203,"Senior Data Analyst, Vendor Analytics – Digital Markets",Gartner,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+204,Data Engineer,BLING,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+205,Data Engineer - BI (They/She/He),Glovo,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+206,Data Analyst,Q-tech,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+207,Data & Analytics products and Services (DAPS) Internal Communications Intern,Nestlé,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+208,"Data Engineer, EU Workforce Staffing",Amazon,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+209,Data Engineer,GfK,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+210,Senior Data Analyst,Senior Data Analyst,,Total Nacional,data_analyst,Senior,49000.0,1.0,True,False,
+211,Business Intelligence Engineer,Amazon,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+212,"Data Analyst, Marketplace",OnFrontiers,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+213,Senior Business Intelligence & Insights Analyst,Veriff,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+214,Data Engineer,Pronovias,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+215,Senior Data Analyst/Scientist,Domestika,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+216,Data Engineer,Michael Page,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+217,Senior Data Analyst,Senior Data Analyst,,Total Nacional,data_analyst,Senior,49000.0,1.0,True,False,
+218,Data Analyst - Qcommerce - Partner Operations,Glovo,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+219,CONSULTOR BI,SETESCA,Catalonia,Catalonia,backend,Mid,38130.55,1.0741,True,False,28590.0
+220,Big Data engineer,GMV,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+221,Data Engineer,INNOCV Solutions,,Total Nacional,data_engineer,Mid,43500.0,1.0,True,True,
+222,Junior Big Data Developer (Tech Support) - Google Cloud Platform,Webhelp,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,True,True,28590.0
+223,Senior Intelligence Analyst (Remote),CrowdStrike,Catalonia,Catalonia,backend,Senior,51556.8,1.0741,True,False,28590.0
+225,Senior Data Analyst,Adevinta,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+226,Data Engineer,Toptal,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+227,Data Engineer (Returnly),Affirm,,Total Nacional,data_engineer,Mid,43500.0,1.0,True,True,
+228,Consultor/a Analytics Qlik Sense,NUNSYS,,Total Nacional,data_analyst,Mid,36500.0,1.0,True,False,
+229,Data Analyst,Wallapop,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+230,Data Migration Analyst,Accenture España,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+231,Master Data Analyst,Page Personnel,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+232,Data Analyst,Goin,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+233,Power BI Consultant (I&D),Capgemini,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+234,Data Analyst/Web Analyst (M/F),Wipro,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+235,Junior Data Analyst,NTT DATA Business Solutions Spain,Catalonia,Catalonia,data_analyst,Junior,27926.6,1.0741,True,False,28590.0
+237,Data Science,Accenture España,Catalonia,Catalonia,data_scientist,Mid,45112.2,1.0741,True,False,28590.0
+238,Data Analyst,Product Madness 📱🎮,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+239,Data Engineer (P.A-0104),M Digital Partner,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+240,Junior Data Scientist,Allianz Technology,Catalonia,Catalonia,data_scientist,Junior,32223.0,1.0741,True,False,28590.0
+241,Data Engineer,Kiteris,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+242,Business Intelligence Developer / Analyst (f/m/d).,wefox,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+243,Business Intelligence Specialist,Tech Data,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+244,Senior Product Data Analyst - Experimentation,Kiwi.com,Catalonia,Catalonia,data_analyst,Senior,52630.9,1.0741,True,False,28590.0
+245,Data Analyst / BI Developer,Knossos Consulting,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,True,28590.0
+246,Ingeniero/a Big Data,open3s,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+247,Google Professional Data Engineer,Accenture España,Catalonia,Catalonia,data_engineer,Mid,46723.35,1.0741,True,True,28590.0
+248,Web Analyst - Adobe Analytics,Tech Data,Catalonia,Catalonia,data_analyst,Mid,39204.65,1.0741,True,False,28590.0
+249,Data Engineer,The Cocktail,,Total Nacional,data_engineer,Mid,43500.0,1.0,True,True,

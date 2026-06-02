@@ -8,10 +8,10 @@
 
 | Person | Role | GitHub |
 |--------|------|--------|
-| **Juan** | Responsable de Ingeniería de Datos (Data Wrangler) | @Juan de la Fuente Larrocca |
-| **Isabela** | Responsable de Análisis Estadístico | @Isabela |
-| **Anas** | Responsable de Visualización (Data Storyteller) | @Anas28 |
-| **Vanessa** | Consultora de Estrategia y Ética de Datos | @Vanessa |
+| **Juan** | Responsable de Ingeniería de Datos (Data Wrangler) | [@juandelaf1](https://github.com/juandelaf1) |
+| **Isabela** | Responsable de Análisis Estadístico | [@Isabela-Tellez](https://github.com/Isabela-Tellez) |
+| **Anas** | Responsable de Visualización (Data Storyteller) | [@Anasfady](https://github.com/Anasfady) |
+| **Vanessa** | Consultora de Estrategia y Ética de Datos | [@garciaguadalupevanessa-bit](https://github.com/garciaguadalupevanessa-bit) |
 
 **Scrum Master:** Anas — Facilitates the process, removes blockers, manages the repo.
 **Product Owner:** Juan — Prioritizes backlog, validates business questions, prepares executive presentation.

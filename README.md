@@ -12,10 +12,10 @@
 
 | Rol | Nombre | GitHub |
 |-----|--------|--------|
-| **Responsable de Ingeniería de Datos** (Data Wrangler) — Fases 1 & 2 | **Juan** | @Juan de la Fuente Larrocca |
-| **Responsable de Análisis Estadístico** — Fase 3 | **Isabela** | @Isabela |
-| **Responsable de Visualización** (Data Storyteller) — Fase 4 | **Anas** | @Anas28 |
-| **Consultora de Estrategia y Ética de Datos** — Sesgos | **Vanessa** | @Vanessa |
+| **Responsable de Ingeniería de Datos** (Data Wrangler) — Fases 1 & 2 | **Juan** | [@juandelaf1](https://github.com/juandelaf1) |
+| **Responsable de Análisis Estadístico** — Fase 3 | **Isabela** | [@Isabela-Tellez](https://github.com/Isabela-Tellez) |
+| **Responsable de Visualización** (Data Storyteller) — Fase 4 | **Anas** | [@Anasfady](https://github.com/Anasfady) |
+| **Consultora de Estrategia y Ética de Datos** — Sesgos | **Vanessa** | [@garciaguadalupevanessa-bit](https://github.com/garciaguadalupevanessa-bit) |
 
 > **Scrum Master:** Anas | **Product Owner:** Juan
 
@@ -86,61 +86,72 @@ Pearsons_Four/
 - City extracted from location field
 - IQR filter: kept 607 clean records with reliable salaries
 
-### 2. Statistical Analysis (Isabela)
+### 2. Statistical Analysis (Isabela) — Data Roles Only
+
+> **Note:** Metrics below are calculated exclusively on **Data Roles** (616 cleaned records).  
+> The original +45.1% remote premium and r=0.62 views-applies correlation were calculated on all LinkedIn postings (every profession).  
+> When isolating Data Roles, the remote premium disappears and the views-applies correlation strengthens.
 
 | Metric | LinkedIn (Data Roles) |
 |--------|----------------------|
-| Clean records for analysis | 607 |
-| **Mean salary** | $139,844 |
-| **Median salary** | $135,588 |
+| Clean records for analysis | 616 |
+| **Mean salary** | $142,936 |
+| **Median salary** | $136,422 |
 | Salary range (IQR-cleaned) | $35,360 – $265,000 |
-| **Remote premium** | +45.1% (Remote: $112,500 vs On-site: $77,500 median) |
+| **Remote premium (Data Roles)** | **-1.2%** (Remote: $135,200 vs On-site: $136,900) — Not significant (p=0.46) |
+| **Remote premium (All LinkedIn)** | +45.3% — Context: all professions, where on-site roles include lower-paid occupations |
 
-**Experience vs Salary:**
-| Level | Mean Salary |
+**Experience vs Salary (Median):**
+| Level | Median Salary |
 |-------|-------------|
-| Internship | $54,126 |
-| Entry Level | $122,322 |
-| Associate | $101,394 |
-| Mid-Senior | $144,213 |
-| Director | $201,739 |
-| Executive | $227,000 |
+| Entry Level | $114,938 |
+| Associate | $97,500 |
+| Mid-Senior | $140,400 |
+| Director | $212,500 |
+| Executive | $222,500 |
 
 **Correlation Analysis:**
-| Variable Pair | Correlation |
-|--------------|-------------|
-| Experience level → Salary | **0.43** (moderate positive) |
-| Remote allowed → Salary | **0.18** (weak positive) |
-| Views → Applies | **0.62** (moderate positive) |
+| Variable Pair | Pearson r | Spearman ρ | Interpretation |
+|--------------|-----------|------------|----------------|
+| Experience level → Salary | **0.49** | **0.50** | Moderate-strong positive. **Main finding.** |
+| Remote allowed → Salary | **0.04** | **0.08** | Near zero. No relationship for Data Roles. |
+| Views → Applies | **0.91** | — | Strong positive. More views = more applications. |
+| Views → Salary | **-0.15** | **-0.17** | Very weak negative. Traffic ≠ salary. |
 
 **Hypothesis Testing (ANOVA):**
-- p-value < 0.0001 → **Experience level significantly affects salary** (reject H₀)
+- F = 43.79, **p < 0.00001** → **Experience level significantly affects salary** (reject H₀)
 
 **Conditional Probability (LinkedIn):**
-- P(High Salary | Python) = **8.00%** vs P(High Salary | No Python) = **7.09%**
-- Python mention increases high-salary probability by ~13%
+- Could not be reliably calculated: **98.03%** of `skills_desc` are null in LinkedIn
+- Python/other skill probabilities come from **Stack Overflow** analysis (Vanessa's section)
 
 ### 3. Visualizations (Anas)
 
-6 graphs created in the LinkedIn notebook, all with professional titles, axis labels, legends, and Markdown interpretation:
+11 graphs created in the enhanced notebook, all with professional titles, axis labels, footnotes, and Markdown interpretation:
 
 <p align="center">
-  <img src="screenshots/linkedin_histogram_kde.png" alt="Salary Distribution KDE" width="400">
-  <img src="screenshots/linkedin_boxplot_experience.png" alt="Salary by Experience" width="400">
+  <img src="screenshots/linkedin_histogram_kde.png" alt="Salary Distribution KDE" width="300">
+  <img src="screenshots/linkedin_boxplot_experience.png" alt="Salary by Experience" width="300">
+  <img src="screenshots/linkedin_salary_progression.png" alt="Salary Progression Line" width="300">
 </p>
 <p align="center">
-  <img src="screenshots/linkedin_salary_spread.png" alt="Salary Spread" width="400">
-  <img src="screenshots/linkedin_top_roles.png" alt="Top 10 Data Roles" width="400">
+  <img src="screenshots/linkedin_salary_spread.png" alt="Salary Spread" width="300">
+  <img src="screenshots/linkedin_top_roles.png" alt="Top 10 Data Roles" width="300">
+  <img src="screenshots/linkedin_views_vs_applies.png" alt="Views vs Applies" width="300">
 </p>
 <p align="center">
-  <img src="screenshots/linkedin_views_vs_applies.png" alt="Views vs Applies" width="400">
-  <img src="screenshots/vgg_linkedin_4panels.png" alt="Linkedin Analysis Dashboard" width="400">
+  <img src="screenshots/linkedin_remote_premium.png" alt="Remote Premium" width="300">
+  <img src="screenshots/linkedin_salary_cdf.png" alt="Salary CDF" width="300">
+  <img src="screenshots/vgg_linkedin_4panels.png" alt="Linkedin Analysis Dashboard" width="300">
 </p>
 
 - **Histogram + KDE:** Salary distribution is positively skewed — most roles cluster between $80K–$160K
-- **Boxplot by Experience:** Clear salary progression from Internship ($54K) to Executive ($227K)
-- **Top Roles:** Data Analyst (137), Data Engineer (90), Data Scientist (56) lead the market
-- **Views vs Applies:** Moderate positive correlation (r=0.62) — more views drive more applications
+- **Boxplot by Experience:** Clear salary progression from Entry Level ($115K) to Executive ($223K)
+- **Line Graph:** Salary progression by experience — the biggest jump is Associate → Mid-Senior (+$43K)
+- **CDF:** 50% of Data roles pay between $107K and $170K (IQR)
+- **Remote Premium (Data Roles):** No significant difference — both remote and on-site median ~$136K
+- **Views vs Applies:** Strong positive correlation (r=0.91) — more views = more applications
+- **Views vs Salary:** Near-zero correlation (r=-0.15) — traffic ≠ salary quality
 
 ### 4. Stack Overflow — Bias Analysis (Vanessa)
 
@@ -193,7 +204,7 @@ Pearsons_Four/
 | LinkedIn Job Postings EDA notebook | Juan + Isabela + Anas | ✅ Complete |
 | Stack Overflow bias analysis notebook | Vanessa | ✅ Complete |
 | Cross-dataset comparison | Vanessa | ✅ Complete |
-| Executive presentation (10 min slides) | Vanessa (leads) + Juan | 🔄 In progress |
+| Executive presentation (10 min slides) | Isabela | ✅ Complete |
 | README with results | Anas | ✅ Complete |
 | GUIDE.md with task distribution | Anas | ✅ Complete |
 

@@ -1,0 +1,970 @@
+﻿sector,sector_id,year,sexo,salario_bruto_anual,muestra_pequena
+B_S Todas las secciones,B_S,2024,Ambos sexos,29540.26,False
+B_S Todas las secciones,B_S,2024,Mujeres,26904.9,False
+B_S Todas las secciones,B_S,2024,Hombres,32057.55,False
+B_S Todas las secciones,B_S,2023,Ambos sexos,28049.94,False
+B_S Todas las secciones,B_S,2023,Mujeres,25591.31,False
+B_S Todas las secciones,B_S,2023,Hombres,30372.49,False
+B_S Todas las secciones,B_S,2022,Ambos sexos,26948.87,False
+B_S Todas las secciones,B_S,2022,Mujeres,24359.82,False
+B_S Todas las secciones,B_S,2022,Hombres,29381.84,False
+B_S Todas las secciones,B_S,2021,Ambos sexos,25896.82,False
+B_S Todas las secciones,B_S,2021,Mujeres,23175.95,False
+B_S Todas las secciones,B_S,2021,Hombres,28388.69,False
+B_S Todas las secciones,B_S,2020,Ambos sexos,25165.51,False
+B_S Todas las secciones,B_S,2020,Mujeres,22467.48,False
+B_S Todas las secciones,B_S,2020,Hombres,27642.52,False
+B_S Todas las secciones,B_S,2019,Ambos sexos,24395.98,False
+B_S Todas las secciones,B_S,2019,Mujeres,21682.02,False
+B_S Todas las secciones,B_S,2019,Hombres,26934.38,False
+B_S Todas las secciones,B_S,2018,Ambos sexos,24009.12,False
+B_S Todas las secciones,B_S,2018,Mujeres,21011.89,False
+B_S Todas las secciones,B_S,2018,Hombres,26738.19,False
+B_S Todas las secciones,B_S,2017,Ambos sexos,23646.5,False
+B_S Todas las secciones,B_S,2017,Mujeres,20607.85,False
+B_S Todas las secciones,B_S,2017,Hombres,26391.84,False
+B_S Todas las secciones,B_S,2016,Ambos sexos,23156.34,False
+B_S Todas las secciones,B_S,2016,Mujeres,20131.41,False
+B_S Todas las secciones,B_S,2016,Hombres,25924.43,False
+B_S Todas las secciones,B_S,2015,Ambos sexos,23106.3,False
+B_S Todas las secciones,B_S,2015,Mujeres,20051.58,False
+B_S Todas las secciones,B_S,2015,Hombres,25992.76,False
+B_S Todas las secciones,B_S,2014,Ambos sexos,22858.17,False
+B_S Todas las secciones,B_S,2014,Mujeres,19744.82,False
+B_S Todas las secciones,B_S,2014,Hombres,25727.24,False
+B_S Todas las secciones,B_S,2013,Ambos sexos,22697.86,False
+B_S Todas las secciones,B_S,2013,Mujeres,19514.58,False
+B_S Todas las secciones,B_S,2013,Hombres,25675.17,False
+B_S Todas las secciones,B_S,2012,Ambos sexos,22726.44,False
+B_S Todas las secciones,B_S,2012,Mujeres,19537.33,False
+B_S Todas las secciones,B_S,2012,Hombres,25682.05,False
+B_S Todas las secciones,B_S,2011,Ambos sexos,22899.35,False
+B_S Todas las secciones,B_S,2011,Mujeres,19767.59,False
+B_S Todas las secciones,B_S,2011,Hombres,25667.89,False
+B_S Todas las secciones,B_S,2010,Ambos sexos,22790.2,False
+B_S Todas las secciones,B_S,2010,Mujeres,19735.22,False
+B_S Todas las secciones,B_S,2010,Hombres,25479.74,False
+B_S Todas las secciones,B_S,2009,Ambos sexos,22511.47,False
+B_S Todas las secciones,B_S,2009,Mujeres,19502.02,False
+B_S Todas las secciones,B_S,2009,Hombres,25001.05,False
+B_S Todas las secciones,B_S,2008,Ambos sexos,21883.42,False
+B_S Todas las secciones,B_S,2008,Mujeres,18910.62,False
+B_S Todas las secciones,B_S,2008,Hombres,24203.33,False
+B Industrias extractivas,B,2024,Ambos sexos,41951.74,False
+B Industrias extractivas,B,2024,Mujeres,51101.45,True
+B Industrias extractivas,B,2024,Hombres,40224.17,False
+B Industrias extractivas,B,2023,Ambos sexos,38869.23,False
+B Industrias extractivas,B,2023,Mujeres,45189.94,True
+B Industrias extractivas,B,2023,Hombres,37724.88,False
+B Industrias extractivas,B,2022,Ambos sexos,36308.58,False
+B Industrias extractivas,B,2022,Mujeres,42851.51,True
+B Industrias extractivas,B,2022,Hombres,35064.02,False
+B Industrias extractivas,B,2021,Ambos sexos,34866.39,False
+B Industrias extractivas,B,2021,Mujeres,41919.95,True
+B Industrias extractivas,B,2021,Hombres,33557.99,False
+B Industrias extractivas,B,2020,Ambos sexos,34424.68,False
+B Industrias extractivas,B,2020,Mujeres,40804.11,True
+B Industrias extractivas,B,2020,Hombres,33198.8,False
+B Industrias extractivas,B,2019,Ambos sexos,34159.42,False
+B Industrias extractivas,B,2019,Mujeres,39732.29,True
+B Industrias extractivas,B,2019,Hombres,33116.69,False
+B Industrias extractivas,B,2018,Ambos sexos,33990.57,False
+B Industrias extractivas,B,2018,Mujeres,38900.71,True
+B Industrias extractivas,B,2018,Hombres,33095.45,False
+B Industrias extractivas,B,2017,Ambos sexos,32555.75,False
+B Industrias extractivas,B,2017,Mujeres,35259.06,True
+B Industrias extractivas,B,2017,Hombres,32127.49,False
+B Industrias extractivas,B,2016,Ambos sexos,32400.69,False
+B Industrias extractivas,B,2016,Mujeres,35133.36,True
+B Industrias extractivas,B,2016,Hombres,31968.68,False
+B Industrias extractivas,B,2015,Ambos sexos,32494.07,False
+B Industrias extractivas,B,2015,Mujeres,36885.69,True
+B Industrias extractivas,B,2015,Hombres,31770.89,False
+B Industrias extractivas,B,2014,Ambos sexos,32971.21,False
+B Industrias extractivas,B,2014,Mujeres,38303.3,True
+B Industrias extractivas,B,2014,Hombres,32130.12,False
+B Industrias extractivas,B,2013,Ambos sexos,31389.5,False
+B Industrias extractivas,B,2013,Mujeres,29485.44,True
+B Industrias extractivas,B,2013,Hombres,31714.85,False
+B Industrias extractivas,B,2012,Ambos sexos,30236.84,False
+B Industrias extractivas,B,2012,Mujeres,27562.19,True
+B Industrias extractivas,B,2012,Hombres,30628.55,False
+B Industrias extractivas,B,2011,Ambos sexos,29223.47,False
+B Industrias extractivas,B,2011,Mujeres,25943.52,True
+B Industrias extractivas,B,2011,Hombres,29602.06,False
+B Industrias extractivas,B,2010,Ambos sexos,28373.35,False
+B Industrias extractivas,B,2010,Mujeres,24728.07,True
+B Industrias extractivas,B,2010,Hombres,28713.18,False
+B Industrias extractivas,B,2009,Ambos sexos,27051.36,False
+B Industrias extractivas,B,2009,Mujeres,26213.08,True
+B Industrias extractivas,B,2009,Hombres,27123.0,False
+B Industrias extractivas,B,2008,Ambos sexos,26647.03,False
+B Industrias extractivas,B,2008,Mujeres,23057.4,True
+B Industrias extractivas,B,2008,Hombres,26981.1,False
+C Industria manufacturera,C,2024,Ambos sexos,32881.61,False
+C Industria manufacturera,C,2024,Mujeres,29118.1,False
+C Industria manufacturera,C,2024,Hombres,34336.38,False
+C Industria manufacturera,C,2023,Ambos sexos,31064.13,False
+C Industria manufacturera,C,2023,Mujeres,27028.65,False
+C Industria manufacturera,C,2023,Hombres,32604.23,False
+C Industria manufacturera,C,2022,Ambos sexos,30000.69,False
+C Industria manufacturera,C,2022,Mujeres,25932.76,False
+C Industria manufacturera,C,2022,Hombres,31544.67,False
+C Industria manufacturera,C,2021,Ambos sexos,28585.65,False
+C Industria manufacturera,C,2021,Mujeres,24456.75,False
+C Industria manufacturera,C,2021,Hombres,30102.28,False
+C Industria manufacturera,C,2020,Ambos sexos,27875.98,False
+C Industria manufacturera,C,2020,Mujeres,23765.8,False
+C Industria manufacturera,C,2020,Hombres,29383.74,False
+C Industria manufacturera,C,2019,Ambos sexos,27604.74,False
+C Industria manufacturera,C,2019,Mujeres,23339.25,False
+C Industria manufacturera,C,2019,Hombres,29188.87,False
+C Industria manufacturera,C,2018,Ambos sexos,27640.12,False
+C Industria manufacturera,C,2018,Mujeres,23091.83,False
+C Industria manufacturera,C,2018,Hombres,29288.25,False
+C Industria manufacturera,C,2017,Ambos sexos,27214.3,False
+C Industria manufacturera,C,2017,Mujeres,22857.78,False
+C Industria manufacturera,C,2017,Hombres,28741.18,False
+C Industria manufacturera,C,2016,Ambos sexos,26698.42,False
+C Industria manufacturera,C,2016,Mujeres,22261.93,False
+C Industria manufacturera,C,2016,Hombres,28256.2,False
+C Industria manufacturera,C,2015,Ambos sexos,26543.77,False
+C Industria manufacturera,C,2015,Mujeres,22001.02,False
+C Industria manufacturera,C,2015,Hombres,28129.88,False
+C Industria manufacturera,C,2014,Ambos sexos,26476.73,False
+C Industria manufacturera,C,2014,Mujeres,21923.13,False
+C Industria manufacturera,C,2014,Hombres,28086.91,False
+C Industria manufacturera,C,2013,Ambos sexos,26042.43,False
+C Industria manufacturera,C,2013,Mujeres,21464.92,False
+C Industria manufacturera,C,2013,Hombres,27657.92,False
+C Industria manufacturera,C,2012,Ambos sexos,25510.48,False
+C Industria manufacturera,C,2012,Mujeres,20975.22,False
+C Industria manufacturera,C,2012,Hombres,27110.11,False
+C Industria manufacturera,C,2011,Ambos sexos,25308.11,False
+C Industria manufacturera,C,2011,Mujeres,20683.04,False
+C Industria manufacturera,C,2011,Hombres,26923.02,False
+C Industria manufacturera,C,2010,Ambos sexos,24863.7,False
+C Industria manufacturera,C,2010,Mujeres,20584.23,False
+C Industria manufacturera,C,2010,Hombres,26355.18,False
+C Industria manufacturera,C,2009,Ambos sexos,23907.49,False
+C Industria manufacturera,C,2009,Mujeres,19727.98,False
+C Industria manufacturera,C,2009,Hombres,25341.93,False
+C Industria manufacturera,C,2008,Ambos sexos,23615.61,False
+C Industria manufacturera,C,2008,Mujeres,19072.72,False
+C Industria manufacturera,C,2008,Hombres,25233.51,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2024,Ambos sexos,57931.81,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2024,Mujeres,50357.48,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2024,Hombres,61154.83,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2023,Ambos sexos,54447.96,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2023,Mujeres,47681.37,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2023,Hombres,57221.12,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2022,Ambos sexos,55470.69,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2022,Mujeres,49546.23,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2022,Hombres,57488.36,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2021,Ambos sexos,52985.83,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2021,Mujeres,45462.89,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2021,Hombres,55829.66,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2020,Ambos sexos,53775.71,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2020,Mujeres,45975.8,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2020,Hombres,56481.61,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2019,Ambos sexos,52162.53,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2019,Mujeres,45012.17,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2019,Hombres,54357.93,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2018,Ambos sexos,51237.33,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2018,Mujeres,44395.92,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2018,Hombres,53379.93,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2017,Ambos sexos,52014.79,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2017,Mujeres,44656.93,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2017,Hombres,54199.45,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2016,Ambos sexos,50992.09,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2016,Mujeres,44147.19,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2016,Hombres,52959.98,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2015,Ambos sexos,51919.72,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2015,Mujeres,43674.19,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2015,Hombres,54024.87,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2014,Ambos sexos,51034.67,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2014,Mujeres,43473.8,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2014,Hombres,53084.89,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2013,Ambos sexos,52827.56,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2013,Mujeres,44341.93,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2013,Hombres,55348.54,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2012,Ambos sexos,52324.67,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2012,Mujeres,44634.43,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2012,Hombres,54195.64,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2011,Ambos sexos,50371.41,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2011,Mujeres,44662.78,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2011,Hombres,51612.34,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2010,Ambos sexos,48803.35,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2010,Mujeres,41782.57,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2010,Hombres,50426.25,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2009,Ambos sexos,50536.7,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2009,Mujeres,42200.77,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2009,Hombres,52190.69,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2008,Ambos sexos,48578.65,False
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2008,Mujeres,41504.03,True
+"D Suministro de energia electrica, gas, vapor y aire acondicionado",D,2008,Hombres,50177.13,False
+"E Suministro de agua, saneamiento, residuos",E,2024,Ambos sexos,32362.61,False
+"E Suministro de agua, saneamiento, residuos",E,2024,Mujeres,30047.33,False
+"E Suministro de agua, saneamiento, residuos",E,2024,Hombres,32944.02,False
+"E Suministro de agua, saneamiento, residuos",E,2023,Ambos sexos,30957.29,False
+"E Suministro de agua, saneamiento, residuos",E,2023,Mujeres,28399.96,False
+"E Suministro de agua, saneamiento, residuos",E,2023,Hombres,31618.62,False
+"E Suministro de agua, saneamiento, residuos",E,2022,Ambos sexos,30444.93,False
+"E Suministro de agua, saneamiento, residuos",E,2022,Mujeres,28501.84,False
+"E Suministro de agua, saneamiento, residuos",E,2022,Hombres,30972.7,False
+"E Suministro de agua, saneamiento, residuos",E,2021,Ambos sexos,29277.93,False
+"E Suministro de agua, saneamiento, residuos",E,2021,Mujeres,26520.12,False
+"E Suministro de agua, saneamiento, residuos",E,2021,Hombres,29983.61,False
+"E Suministro de agua, saneamiento, residuos",E,2020,Ambos sexos,27854.25,False
+"E Suministro de agua, saneamiento, residuos",E,2020,Mujeres,25020.33,False
+"E Suministro de agua, saneamiento, residuos",E,2020,Hombres,28548.11,False
+"E Suministro de agua, saneamiento, residuos",E,2019,Ambos sexos,27486.42,False
+"E Suministro de agua, saneamiento, residuos",E,2019,Mujeres,24622.26,False
+"E Suministro de agua, saneamiento, residuos",E,2019,Hombres,28214.35,False
+"E Suministro de agua, saneamiento, residuos",E,2018,Ambos sexos,27289.63,False
+"E Suministro de agua, saneamiento, residuos",E,2018,Mujeres,24302.84,False
+"E Suministro de agua, saneamiento, residuos",E,2018,Hombres,28074.77,False
+"E Suministro de agua, saneamiento, residuos",E,2017,Ambos sexos,26937.32,False
+"E Suministro de agua, saneamiento, residuos",E,2017,Mujeres,24010.74,False
+"E Suministro de agua, saneamiento, residuos",E,2017,Hombres,27628.19,False
+"E Suministro de agua, saneamiento, residuos",E,2016,Ambos sexos,26319.91,False
+"E Suministro de agua, saneamiento, residuos",E,2016,Mujeres,23184.64,False
+"E Suministro de agua, saneamiento, residuos",E,2016,Hombres,27154.16,False
+"E Suministro de agua, saneamiento, residuos",E,2015,Ambos sexos,26340.27,False
+"E Suministro de agua, saneamiento, residuos",E,2015,Mujeres,22616.21,False
+"E Suministro de agua, saneamiento, residuos",E,2015,Hombres,27340.59,False
+"E Suministro de agua, saneamiento, residuos",E,2014,Ambos sexos,25959.23,False
+"E Suministro de agua, saneamiento, residuos",E,2014,Mujeres,22345.48,False
+"E Suministro de agua, saneamiento, residuos",E,2014,Hombres,26846.4,False
+"E Suministro de agua, saneamiento, residuos",E,2013,Ambos sexos,25291.38,False
+"E Suministro de agua, saneamiento, residuos",E,2013,Mujeres,21693.7,False
+"E Suministro de agua, saneamiento, residuos",E,2013,Hombres,26208.7,False
+"E Suministro de agua, saneamiento, residuos",E,2012,Ambos sexos,25188.51,False
+"E Suministro de agua, saneamiento, residuos",E,2012,Mujeres,21670.86,False
+"E Suministro de agua, saneamiento, residuos",E,2012,Hombres,26070.16,False
+"E Suministro de agua, saneamiento, residuos",E,2011,Ambos sexos,25570.26,False
+"E Suministro de agua, saneamiento, residuos",E,2011,Mujeres,21065.6,False
+"E Suministro de agua, saneamiento, residuos",E,2011,Hombres,26724.73,False
+"E Suministro de agua, saneamiento, residuos",E,2010,Ambos sexos,24972.27,False
+"E Suministro de agua, saneamiento, residuos",E,2010,Mujeres,20981.76,False
+"E Suministro de agua, saneamiento, residuos",E,2010,Hombres,26020.4,False
+"E Suministro de agua, saneamiento, residuos",E,2009,Ambos sexos,23617.24,False
+"E Suministro de agua, saneamiento, residuos",E,2009,Mujeres,19280.18,False
+"E Suministro de agua, saneamiento, residuos",E,2009,Hombres,24745.68,False
+"E Suministro de agua, saneamiento, residuos",E,2008,Ambos sexos,22590.49,False
+"E Suministro de agua, saneamiento, residuos",E,2008,Mujeres,18508.17,False
+"E Suministro de agua, saneamiento, residuos",E,2008,Hombres,23720.73,False
+F Construccion,F,2024,Ambos sexos,26965.09,False
+F Construccion,F,2024,Mujeres,25817.08,False
+F Construccion,F,2024,Hombres,27131.83,False
+F Construccion,F,2023,Ambos sexos,25469.87,False
+F Construccion,F,2023,Mujeres,25326.53,False
+F Construccion,F,2023,Hombres,25489.41,False
+F Construccion,F,2022,Ambos sexos,25149.41,False
+F Construccion,F,2022,Mujeres,26258.91,False
+F Construccion,F,2022,Hombres,25001.32,False
+F Construccion,F,2021,Ambos sexos,24136.94,False
+F Construccion,F,2021,Mujeres,22640.24,False
+F Construccion,F,2021,Hombres,24361.97,False
+F Construccion,F,2020,Ambos sexos,23104.64,False
+F Construccion,F,2020,Mujeres,21188.0,False
+F Construccion,F,2020,Hombres,23402.34,False
+F Construccion,F,2019,Ambos sexos,22789.3,False
+F Construccion,F,2019,Mujeres,21388.78,False
+F Construccion,F,2019,Hombres,22997.41,False
+F Construccion,F,2018,Ambos sexos,22971.05,False
+F Construccion,F,2018,Mujeres,21919.0,False
+F Construccion,F,2018,Hombres,23118.32,False
+F Construccion,F,2017,Ambos sexos,22607.96,False
+F Construccion,F,2017,Mujeres,20588.67,False
+F Construccion,F,2017,Hombres,22927.3,False
+F Construccion,F,2016,Ambos sexos,22163.46,False
+F Construccion,F,2016,Mujeres,20361.67,False
+F Construccion,F,2016,Hombres,22460.86,False
+F Construccion,F,2015,Ambos sexos,22660.82,False
+F Construccion,F,2015,Mujeres,20060.54,False
+F Construccion,F,2015,Hombres,23113.93,False
+F Construccion,F,2014,Ambos sexos,22608.41,False
+F Construccion,F,2014,Mujeres,21483.17,False
+F Construccion,F,2014,Hombres,22783.0,False
+F Construccion,F,2013,Ambos sexos,22720.53,False
+F Construccion,F,2013,Mujeres,20636.21,False
+F Construccion,F,2013,Hombres,23067.15,False
+F Construccion,F,2012,Ambos sexos,22686.24,False
+F Construccion,F,2012,Mujeres,21441.66,False
+F Construccion,F,2012,Hombres,22910.95,False
+F Construccion,F,2011,Ambos sexos,22541.0,False
+F Construccion,F,2011,Mujeres,21029.69,False
+F Construccion,F,2011,Hombres,22783.96,False
+F Construccion,F,2010,Ambos sexos,21962.13,False
+F Construccion,F,2010,Mujeres,20189.84,False
+F Construccion,F,2010,Hombres,22239.83,False
+F Construccion,F,2009,Ambos sexos,21774.7,False
+F Construccion,F,2009,Mujeres,20011.47,False
+F Construccion,F,2009,Hombres,22067.19,False
+F Construccion,F,2008,Ambos sexos,20706.74,False
+F Construccion,F,2008,Mujeres,19873.24,False
+F Construccion,F,2008,Hombres,20844.73,False
+G Comercio; reparacion de vehiculos,G,2024,Ambos sexos,25778.97,False
+G Comercio; reparacion de vehiculos,G,2024,Mujeres,22673.6,False
+G Comercio; reparacion de vehiculos,G,2024,Hombres,28938.65,False
+G Comercio; reparacion de vehiculos,G,2023,Ambos sexos,24137.4,False
+G Comercio; reparacion de vehiculos,G,2023,Mujeres,21130.85,False
+G Comercio; reparacion de vehiculos,G,2023,Hombres,27243.61,False
+G Comercio; reparacion de vehiculos,G,2022,Ambos sexos,23209.55,False
+G Comercio; reparacion de vehiculos,G,2022,Mujeres,20084.02,False
+G Comercio; reparacion de vehiculos,G,2022,Hombres,26378.32,False
+G Comercio; reparacion de vehiculos,G,2021,Ambos sexos,22215.28,False
+G Comercio; reparacion de vehiculos,G,2021,Mujeres,19026.11,False
+G Comercio; reparacion de vehiculos,G,2021,Hombres,25298.04,False
+G Comercio; reparacion de vehiculos,G,2020,Ambos sexos,21393.49,False
+G Comercio; reparacion de vehiculos,G,2020,Mujeres,18243.62,False
+G Comercio; reparacion de vehiculos,G,2020,Hombres,24411.89,False
+G Comercio; reparacion de vehiculos,G,2019,Ambos sexos,21120.76,False
+G Comercio; reparacion de vehiculos,G,2019,Mujeres,17981.78,False
+G Comercio; reparacion de vehiculos,G,2019,Hombres,24237.93,False
+G Comercio; reparacion de vehiculos,G,2018,Ambos sexos,21006.17,False
+G Comercio; reparacion de vehiculos,G,2018,Mujeres,17741.19,False
+G Comercio; reparacion de vehiculos,G,2018,Hombres,24277.23,False
+G Comercio; reparacion de vehiculos,G,2017,Ambos sexos,20608.77,False
+G Comercio; reparacion de vehiculos,G,2017,Mujeres,17377.72,False
+G Comercio; reparacion de vehiculos,G,2017,Hombres,23829.7,False
+G Comercio; reparacion de vehiculos,G,2016,Ambos sexos,19781.4,False
+G Comercio; reparacion de vehiculos,G,2016,Mujeres,16726.51,False
+G Comercio; reparacion de vehiculos,G,2016,Hombres,22826.01,False
+G Comercio; reparacion de vehiculos,G,2015,Ambos sexos,19651.05,False
+G Comercio; reparacion de vehiculos,G,2015,Mujeres,16481.34,False
+G Comercio; reparacion de vehiculos,G,2015,Hombres,22903.7,False
+G Comercio; reparacion de vehiculos,G,2014,Ambos sexos,19771.86,False
+G Comercio; reparacion de vehiculos,G,2014,Mujeres,16528.98,False
+G Comercio; reparacion de vehiculos,G,2014,Hombres,22987.94,False
+G Comercio; reparacion de vehiculos,G,2013,Ambos sexos,19069.16,False
+G Comercio; reparacion de vehiculos,G,2013,Mujeres,16297.15,False
+G Comercio; reparacion de vehiculos,G,2013,Hombres,22043.76,False
+G Comercio; reparacion de vehiculos,G,2012,Ambos sexos,19473.68,False
+G Comercio; reparacion de vehiculos,G,2012,Mujeres,16446.74,False
+G Comercio; reparacion de vehiculos,G,2012,Hombres,22702.32,False
+G Comercio; reparacion de vehiculos,G,2011,Ambos sexos,19444.62,False
+G Comercio; reparacion de vehiculos,G,2011,Mujeres,16140.67,False
+G Comercio; reparacion de vehiculos,G,2011,Hombres,22924.26,False
+G Comercio; reparacion de vehiculos,G,2010,Ambos sexos,19008.19,False
+G Comercio; reparacion de vehiculos,G,2010,Mujeres,15964.03,False
+G Comercio; reparacion de vehiculos,G,2010,Hombres,22386.69,False
+G Comercio; reparacion de vehiculos,G,2009,Ambos sexos,19498.77,False
+G Comercio; reparacion de vehiculos,G,2009,Mujeres,16074.16,False
+G Comercio; reparacion de vehiculos,G,2009,Hombres,22843.08,False
+G Comercio; reparacion de vehiculos,G,2008,Ambos sexos,18545.85,False
+G Comercio; reparacion de vehiculos,G,2008,Mujeres,15253.79,False
+G Comercio; reparacion de vehiculos,G,2008,Hombres,21673.4,False
+H Transporte y almacenamiento,H,2024,Ambos sexos,28910.3,False
+H Transporte y almacenamiento,H,2024,Mujeres,28972.27,False
+H Transporte y almacenamiento,H,2024,Hombres,28889.39,False
+H Transporte y almacenamiento,H,2023,Ambos sexos,27687.67,False
+H Transporte y almacenamiento,H,2023,Mujeres,28081.06,False
+H Transporte y almacenamiento,H,2023,Hombres,27560.34,False
+H Transporte y almacenamiento,H,2022,Ambos sexos,27354.39,False
+H Transporte y almacenamiento,H,2022,Mujeres,26569.15,False
+H Transporte y almacenamiento,H,2022,Hombres,27598.32,False
+H Transporte y almacenamiento,H,2021,Ambos sexos,25545.48,False
+H Transporte y almacenamiento,H,2021,Mujeres,24286.3,False
+H Transporte y almacenamiento,H,2021,Hombres,25939.1,False
+H Transporte y almacenamiento,H,2020,Ambos sexos,25033.4,False
+H Transporte y almacenamiento,H,2020,Mujeres,24082.98,False
+H Transporte y almacenamiento,H,2020,Hombres,25336.12,False
+H Transporte y almacenamiento,H,2019,Ambos sexos,24368.8,False
+H Transporte y almacenamiento,H,2019,Mujeres,22868.25,False
+H Transporte y almacenamiento,H,2019,Hombres,24852.57,False
+H Transporte y almacenamiento,H,2018,Ambos sexos,24653.86,False
+H Transporte y almacenamiento,H,2018,Mujeres,22595.67,False
+H Transporte y almacenamiento,H,2018,Hombres,25274.9,False
+H Transporte y almacenamiento,H,2017,Ambos sexos,24079.84,False
+H Transporte y almacenamiento,H,2017,Mujeres,22210.81,False
+H Transporte y almacenamiento,H,2017,Hombres,24618.8,False
+H Transporte y almacenamiento,H,2016,Ambos sexos,23611.32,False
+H Transporte y almacenamiento,H,2016,Mujeres,22176.39,False
+H Transporte y almacenamiento,H,2016,Hombres,24010.1,False
+H Transporte y almacenamiento,H,2015,Ambos sexos,23937.81,False
+H Transporte y almacenamiento,H,2015,Mujeres,22039.75,False
+H Transporte y almacenamiento,H,2015,Hombres,24497.46,False
+H Transporte y almacenamiento,H,2014,Ambos sexos,23604.85,False
+H Transporte y almacenamiento,H,2014,Mujeres,21991.84,False
+H Transporte y almacenamiento,H,2014,Hombres,24069.79,False
+H Transporte y almacenamiento,H,2013,Ambos sexos,23525.42,False
+H Transporte y almacenamiento,H,2013,Mujeres,21844.42,False
+H Transporte y almacenamiento,H,2013,Hombres,24022.66,False
+H Transporte y almacenamiento,H,2012,Ambos sexos,23454.25,False
+H Transporte y almacenamiento,H,2012,Mujeres,21580.65,False
+H Transporte y almacenamiento,H,2012,Hombres,23998.5,False
+H Transporte y almacenamiento,H,2011,Ambos sexos,23346.59,False
+H Transporte y almacenamiento,H,2011,Mujeres,21663.87,False
+H Transporte y almacenamiento,H,2011,Hombres,23820.98,False
+H Transporte y almacenamiento,H,2010,Ambos sexos,22990.76,False
+H Transporte y almacenamiento,H,2010,Mujeres,20835.77,False
+H Transporte y almacenamiento,H,2010,Hombres,23616.48,False
+H Transporte y almacenamiento,H,2009,Ambos sexos,22196.86,False
+H Transporte y almacenamiento,H,2009,Mujeres,19262.12,False
+H Transporte y almacenamiento,H,2009,Hombres,23073.94,False
+H Transporte y almacenamiento,H,2008,Ambos sexos,21823.95,False
+H Transporte y almacenamiento,H,2008,Mujeres,18506.62,False
+H Transporte y almacenamiento,H,2008,Hombres,22873.71,False
+I Hosteleria,I,2024,Ambos sexos,17653.42,False
+I Hosteleria,I,2024,Mujeres,16222.08,False
+I Hosteleria,I,2024,Hombres,19526.77,False
+I Hosteleria,I,2023,Ambos sexos,16985.78,False
+I Hosteleria,I,2023,Mujeres,15676.28,False
+I Hosteleria,I,2023,Hombres,18701.7,False
+I Hosteleria,I,2022,Ambos sexos,16274.71,False
+I Hosteleria,I,2022,Mujeres,15022.32,False
+I Hosteleria,I,2022,Hombres,17921.24,False
+I Hosteleria,I,2021,Ambos sexos,14632.81,False
+I Hosteleria,I,2021,Mujeres,13388.55,False
+I Hosteleria,I,2021,Hombres,16229.88,False
+I Hosteleria,I,2020,Ambos sexos,14136.95,False
+I Hosteleria,I,2020,Mujeres,12874.08,False
+I Hosteleria,I,2020,Hombres,15767.95,False
+I Hosteleria,I,2019,Ambos sexos,14561.75,False
+I Hosteleria,I,2019,Mujeres,13410.37,False
+I Hosteleria,I,2019,Hombres,16134.55,False
+I Hosteleria,I,2018,Ambos sexos,14345.3,False
+I Hosteleria,I,2018,Mujeres,12808.88,False
+I Hosteleria,I,2018,Hombres,16271.82,False
+I Hosteleria,I,2017,Ambos sexos,14540.14,False
+I Hosteleria,I,2017,Mujeres,13161.33,False
+I Hosteleria,I,2017,Hombres,16138.88,False
+I Hosteleria,I,2016,Ambos sexos,14125.34,False
+I Hosteleria,I,2016,Mujeres,12608.92,False
+I Hosteleria,I,2016,Hombres,15907.9,False
+I Hosteleria,I,2015,Ambos sexos,13977.06,False
+I Hosteleria,I,2015,Mujeres,12563.08,False
+I Hosteleria,I,2015,Hombres,15751.27,False
+I Hosteleria,I,2014,Ambos sexos,13636.04,False
+I Hosteleria,I,2014,Mujeres,12311.78,False
+I Hosteleria,I,2014,Hombres,15368.45,False
+I Hosteleria,I,2013,Ambos sexos,13851.08,False
+I Hosteleria,I,2013,Mujeres,12536.29,False
+I Hosteleria,I,2013,Hombres,15552.49,False
+I Hosteleria,I,2012,Ambos sexos,13867.02,False
+I Hosteleria,I,2012,Mujeres,12694.16,False
+I Hosteleria,I,2012,Hombres,15518.31,False
+I Hosteleria,I,2011,Ambos sexos,14234.54,False
+I Hosteleria,I,2011,Mujeres,12645.88,False
+I Hosteleria,I,2011,Hombres,16216.7,False
+I Hosteleria,I,2010,Ambos sexos,14629.55,False
+I Hosteleria,I,2010,Mujeres,12825.48,False
+I Hosteleria,I,2010,Hombres,16891.74,False
+I Hosteleria,I,2009,Ambos sexos,13996.7,False
+I Hosteleria,I,2009,Mujeres,12518.34,False
+I Hosteleria,I,2009,Hombres,15940.32,False
+I Hosteleria,I,2008,Ambos sexos,13957.49,False
+I Hosteleria,I,2008,Mujeres,12404.49,False
+I Hosteleria,I,2008,Hombres,15885.32,False
+J Informacion y comunicaciones,J,2024,Ambos sexos,42741.94,False
+J Informacion y comunicaciones,J,2024,Mujeres,38807.08,False
+J Informacion y comunicaciones,J,2024,Hombres,45054.3,False
+J Informacion y comunicaciones,J,2023,Ambos sexos,39674.43,False
+J Informacion y comunicaciones,J,2023,Mujeres,36392.76,False
+J Informacion y comunicaciones,J,2023,Hombres,41536.56,False
+J Informacion y comunicaciones,J,2022,Ambos sexos,37438.55,False
+J Informacion y comunicaciones,J,2022,Mujeres,34306.95,False
+J Informacion y comunicaciones,J,2022,Hombres,39135.1,False
+J Informacion y comunicaciones,J,2021,Ambos sexos,36630.48,False
+J Informacion y comunicaciones,J,2021,Mujeres,33225.56,False
+J Informacion y comunicaciones,J,2021,Hombres,38514.17,False
+J Informacion y comunicaciones,J,2020,Ambos sexos,35663.8,False
+J Informacion y comunicaciones,J,2020,Mujeres,32227.73,False
+J Informacion y comunicaciones,J,2020,Hombres,37580.51,False
+J Informacion y comunicaciones,J,2019,Ambos sexos,34641.28,False
+J Informacion y comunicaciones,J,2019,Mujeres,30898.57,False
+J Informacion y comunicaciones,J,2019,Hombres,36746.41,False
+J Informacion y comunicaciones,J,2018,Ambos sexos,33117.64,False
+J Informacion y comunicaciones,J,2018,Mujeres,29099.47,False
+J Informacion y comunicaciones,J,2018,Hombres,35411.23,False
+J Informacion y comunicaciones,J,2017,Ambos sexos,33664.26,False
+J Informacion y comunicaciones,J,2017,Mujeres,30015.53,False
+J Informacion y comunicaciones,J,2017,Hombres,35768.78,False
+J Informacion y comunicaciones,J,2016,Ambos sexos,32448.31,False
+J Informacion y comunicaciones,J,2016,Mujeres,28834.47,False
+J Informacion y comunicaciones,J,2016,Hombres,34475.06,False
+J Informacion y comunicaciones,J,2015,Ambos sexos,33046.23,False
+J Informacion y comunicaciones,J,2015,Mujeres,28935.74,False
+J Informacion y comunicaciones,J,2015,Hombres,35417.86,False
+J Informacion y comunicaciones,J,2014,Ambos sexos,32754.21,False
+J Informacion y comunicaciones,J,2014,Mujeres,29223.97,False
+J Informacion y comunicaciones,J,2014,Hombres,34740.6,False
+J Informacion y comunicaciones,J,2013,Ambos sexos,33137.17,False
+J Informacion y comunicaciones,J,2013,Mujeres,28651.29,False
+J Informacion y comunicaciones,J,2013,Hombres,35756.26,False
+J Informacion y comunicaciones,J,2012,Ambos sexos,32522.11,False
+J Informacion y comunicaciones,J,2012,Mujeres,28166.28,False
+J Informacion y comunicaciones,J,2012,Hombres,35196.03,False
+J Informacion y comunicaciones,J,2011,Ambos sexos,32491.04,False
+J Informacion y comunicaciones,J,2011,Mujeres,28464.25,False
+J Informacion y comunicaciones,J,2011,Hombres,34990.87,False
+J Informacion y comunicaciones,J,2010,Ambos sexos,32425.68,False
+J Informacion y comunicaciones,J,2010,Mujeres,28610.13,False
+J Informacion y comunicaciones,J,2010,Hombres,34726.99,False
+J Informacion y comunicaciones,J,2009,Ambos sexos,31551.65,False
+J Informacion y comunicaciones,J,2009,Mujeres,26716.32,False
+J Informacion y comunicaciones,J,2009,Hombres,34513.44,False
+J Informacion y comunicaciones,J,2008,Ambos sexos,30628.48,False
+J Informacion y comunicaciones,J,2008,Mujeres,26573.64,False
+J Informacion y comunicaciones,J,2008,Hombres,33090.09,False
+K Actividades financieras y de seguros,K,2024,Ambos sexos,51862.9,False
+K Actividades financieras y de seguros,K,2024,Mujeres,46725.49,False
+K Actividades financieras y de seguros,K,2024,Hombres,58783.66,False
+K Actividades financieras y de seguros,K,2023,Ambos sexos,48922.8,False
+K Actividades financieras y de seguros,K,2023,Mujeres,44032.07,False
+K Actividades financieras y de seguros,K,2023,Hombres,55401.96,False
+K Actividades financieras y de seguros,K,2022,Ambos sexos,47239.53,False
+K Actividades financieras y de seguros,K,2022,Mujeres,42214.85,False
+K Actividades financieras y de seguros,K,2022,Hombres,53969.55,False
+K Actividades financieras y de seguros,K,2021,Ambos sexos,46122.24,False
+K Actividades financieras y de seguros,K,2021,Mujeres,40990.22,False
+K Actividades financieras y de seguros,K,2021,Hombres,52714.92,False
+K Actividades financieras y de seguros,K,2020,Ambos sexos,45921.78,False
+K Actividades financieras y de seguros,K,2020,Mujeres,40159.77,False
+K Actividades financieras y de seguros,K,2020,Hombres,52920.77,False
+K Actividades financieras y de seguros,K,2019,Ambos sexos,44302.71,False
+K Actividades financieras y de seguros,K,2019,Mujeres,39100.52,False
+K Actividades financieras y de seguros,K,2019,Hombres,50830.71,False
+K Actividades financieras y de seguros,K,2018,Ambos sexos,45034.53,False
+K Actividades financieras y de seguros,K,2018,Mujeres,39662.45,False
+K Actividades financieras y de seguros,K,2018,Hombres,51843.11,False
+K Actividades financieras y de seguros,K,2017,Ambos sexos,43773.58,False
+K Actividades financieras y de seguros,K,2017,Mujeres,38521.06,False
+K Actividades financieras y de seguros,K,2017,Hombres,50049.17,False
+K Actividades financieras y de seguros,K,2016,Ambos sexos,42684.65,False
+K Actividades financieras y de seguros,K,2016,Mujeres,36939.55,False
+K Actividades financieras y de seguros,K,2016,Hombres,49257.63,False
+K Actividades financieras y de seguros,K,2015,Ambos sexos,41547.07,False
+K Actividades financieras y de seguros,K,2015,Mujeres,36455.79,False
+K Actividades financieras y de seguros,K,2015,Hombres,47533.67,False
+K Actividades financieras y de seguros,K,2014,Ambos sexos,40696.06,False
+K Actividades financieras y de seguros,K,2014,Mujeres,35829.24,False
+K Actividades financieras y de seguros,K,2014,Hombres,46260.67,False
+K Actividades financieras y de seguros,K,2013,Ambos sexos,39607.49,False
+K Actividades financieras y de seguros,K,2013,Mujeres,33941.56,False
+K Actividades financieras y de seguros,K,2013,Hombres,45963.58,False
+K Actividades financieras y de seguros,K,2012,Ambos sexos,41905.6,False
+K Actividades financieras y de seguros,K,2012,Mujeres,36421.03,False
+K Actividades financieras y de seguros,K,2012,Hombres,47464.8,False
+K Actividades financieras y de seguros,K,2011,Ambos sexos,41124.22,False
+K Actividades financieras y de seguros,K,2011,Mujeres,35428.15,False
+K Actividades financieras y de seguros,K,2011,Hombres,46858.52,False
+K Actividades financieras y de seguros,K,2010,Ambos sexos,41638.7,False
+K Actividades financieras y de seguros,K,2010,Mujeres,35922.39,False
+K Actividades financieras y de seguros,K,2010,Hombres,47081.23,False
+K Actividades financieras y de seguros,K,2009,Ambos sexos,41863.11,False
+K Actividades financieras y de seguros,K,2009,Mujeres,34772.53,False
+K Actividades financieras y de seguros,K,2009,Hombres,48054.65,False
+K Actividades financieras y de seguros,K,2008,Ambos sexos,41619.07,False
+K Actividades financieras y de seguros,K,2008,Mujeres,34946.34,False
+K Actividades financieras y de seguros,K,2008,Hombres,47725.32,False
+L Actividades inmobiliarias,L,2024,Ambos sexos,28854.03,False
+L Actividades inmobiliarias,L,2024,Mujeres,26324.26,False
+L Actividades inmobiliarias,L,2024,Hombres,32499.74,False
+L Actividades inmobiliarias,L,2023,Ambos sexos,27443.78,False
+L Actividades inmobiliarias,L,2023,Mujeres,24867.95,False
+L Actividades inmobiliarias,L,2023,Hombres,31040.51,False
+L Actividades inmobiliarias,L,2022,Ambos sexos,26172.9,False
+L Actividades inmobiliarias,L,2022,Mujeres,23538.96,False
+L Actividades inmobiliarias,L,2022,Hombres,30649.13,False
+L Actividades inmobiliarias,L,2021,Ambos sexos,24835.23,False
+L Actividades inmobiliarias,L,2021,Mujeres,21787.72,False
+L Actividades inmobiliarias,L,2021,Hombres,29120.96,False
+L Actividades inmobiliarias,L,2020,Ambos sexos,23354.7,False
+L Actividades inmobiliarias,L,2020,Mujeres,20142.44,False
+L Actividades inmobiliarias,L,2020,Hombres,28191.02,False
+L Actividades inmobiliarias,L,2019,Ambos sexos,23333.16,False
+L Actividades inmobiliarias,L,2019,Mujeres,19981.82,False
+L Actividades inmobiliarias,L,2019,Hombres,28296.98,False
+L Actividades inmobiliarias,L,2018,Ambos sexos,21249.15,False
+L Actividades inmobiliarias,L,2018,Mujeres,18744.33,False
+L Actividades inmobiliarias,L,2018,Hombres,25083.49,False
+L Actividades inmobiliarias,L,2017,Ambos sexos,21299.08,False
+L Actividades inmobiliarias,L,2017,Mujeres,18488.32,False
+L Actividades inmobiliarias,L,2017,Hombres,25392.77,False
+L Actividades inmobiliarias,L,2016,Ambos sexos,20899.35,False
+L Actividades inmobiliarias,L,2016,Mujeres,17809.07,False
+L Actividades inmobiliarias,L,2016,Hombres,25172.74,False
+L Actividades inmobiliarias,L,2015,Ambos sexos,20540.02,False
+L Actividades inmobiliarias,L,2015,Mujeres,17330.11,False
+L Actividades inmobiliarias,L,2015,Hombres,25763.32,False
+L Actividades inmobiliarias,L,2014,Ambos sexos,20619.89,False
+L Actividades inmobiliarias,L,2014,Mujeres,17775.63,False
+L Actividades inmobiliarias,L,2014,Hombres,24909.19,False
+L Actividades inmobiliarias,L,2013,Ambos sexos,19156.0,False
+L Actividades inmobiliarias,L,2013,Mujeres,16700.49,False
+L Actividades inmobiliarias,L,2013,Hombres,22821.1,False
+L Actividades inmobiliarias,L,2012,Ambos sexos,19806.64,False
+L Actividades inmobiliarias,L,2012,Mujeres,17538.33,False
+L Actividades inmobiliarias,L,2012,Hombres,23419.14,False
+L Actividades inmobiliarias,L,2011,Ambos sexos,20349.1,False
+L Actividades inmobiliarias,L,2011,Mujeres,17988.21,False
+L Actividades inmobiliarias,L,2011,Hombres,24150.05,False
+L Actividades inmobiliarias,L,2010,Ambos sexos,19879.3,False
+L Actividades inmobiliarias,L,2010,Mujeres,17089.82,False
+L Actividades inmobiliarias,L,2010,Hombres,23993.28,False
+L Actividades inmobiliarias,L,2009,Ambos sexos,19770.52,False
+L Actividades inmobiliarias,L,2009,Mujeres,17103.63,False
+L Actividades inmobiliarias,L,2009,Hombres,24134.65,False
+L Actividades inmobiliarias,L,2008,Ambos sexos,19533.83,False
+L Actividades inmobiliarias,L,2008,Mujeres,16850.02,False
+L Actividades inmobiliarias,L,2008,Hombres,23815.81,False
+"M Actividades profesionales, cientificas y tecnicas",M,2024,Ambos sexos,35165.11,False
+"M Actividades profesionales, cientificas y tecnicas",M,2024,Mujeres,31047.52,False
+"M Actividades profesionales, cientificas y tecnicas",M,2024,Hombres,40070.08,False
+"M Actividades profesionales, cientificas y tecnicas",M,2023,Ambos sexos,32547.76,False
+"M Actividades profesionales, cientificas y tecnicas",M,2023,Mujeres,28661.79,False
+"M Actividades profesionales, cientificas y tecnicas",M,2023,Hombres,37139.77,False
+"M Actividades profesionales, cientificas y tecnicas",M,2022,Ambos sexos,30947.87,False
+"M Actividades profesionales, cientificas y tecnicas",M,2022,Mujeres,26804.95,False
+"M Actividades profesionales, cientificas y tecnicas",M,2022,Hombres,36259.18,False
+"M Actividades profesionales, cientificas y tecnicas",M,2021,Ambos sexos,29926.53,False
+"M Actividades profesionales, cientificas y tecnicas",M,2021,Mujeres,25741.8,False
+"M Actividades profesionales, cientificas y tecnicas",M,2021,Hombres,34926.19,False
+"M Actividades profesionales, cientificas y tecnicas",M,2020,Ambos sexos,28918.19,False
+"M Actividades profesionales, cientificas y tecnicas",M,2020,Mujeres,24433.23,False
+"M Actividades profesionales, cientificas y tecnicas",M,2020,Hombres,34161.9,False
+"M Actividades profesionales, cientificas y tecnicas",M,2019,Ambos sexos,28150.21,False
+"M Actividades profesionales, cientificas y tecnicas",M,2019,Mujeres,23592.72,False
+"M Actividades profesionales, cientificas y tecnicas",M,2019,Hombres,33541.11,False
+"M Actividades profesionales, cientificas y tecnicas",M,2018,Ambos sexos,28058.48,False
+"M Actividades profesionales, cientificas y tecnicas",M,2018,Mujeres,23409.52,False
+"M Actividades profesionales, cientificas y tecnicas",M,2018,Hombres,33778.27,False
+"M Actividades profesionales, cientificas y tecnicas",M,2017,Ambos sexos,27450.26,False
+"M Actividades profesionales, cientificas y tecnicas",M,2017,Mujeres,22708.98,False
+"M Actividades profesionales, cientificas y tecnicas",M,2017,Hombres,33020.51,False
+"M Actividades profesionales, cientificas y tecnicas",M,2016,Ambos sexos,26520.32,False
+"M Actividades profesionales, cientificas y tecnicas",M,2016,Mujeres,21942.88,False
+"M Actividades profesionales, cientificas y tecnicas",M,2016,Hombres,31967.2,False
+"M Actividades profesionales, cientificas y tecnicas",M,2015,Ambos sexos,26347.37,False
+"M Actividades profesionales, cientificas y tecnicas",M,2015,Mujeres,21980.57,False
+"M Actividades profesionales, cientificas y tecnicas",M,2015,Hombres,31586.27,False
+"M Actividades profesionales, cientificas y tecnicas",M,2014,Ambos sexos,26275.51,False
+"M Actividades profesionales, cientificas y tecnicas",M,2014,Mujeres,21964.47,False
+"M Actividades profesionales, cientificas y tecnicas",M,2014,Hombres,31673.25,False
+"M Actividades profesionales, cientificas y tecnicas",M,2013,Ambos sexos,25472.07,False
+"M Actividades profesionales, cientificas y tecnicas",M,2013,Mujeres,21226.6,False
+"M Actividades profesionales, cientificas y tecnicas",M,2013,Hombres,30643.51,False
+"M Actividades profesionales, cientificas y tecnicas",M,2012,Ambos sexos,25098.86,False
+"M Actividades profesionales, cientificas y tecnicas",M,2012,Mujeres,20753.36,False
+"M Actividades profesionales, cientificas y tecnicas",M,2012,Hombres,30381.47,False
+"M Actividades profesionales, cientificas y tecnicas",M,2011,Ambos sexos,25350.42,False
+"M Actividades profesionales, cientificas y tecnicas",M,2011,Mujeres,21157.99,False
+"M Actividades profesionales, cientificas y tecnicas",M,2011,Hombres,30460.83,False
+"M Actividades profesionales, cientificas y tecnicas",M,2010,Ambos sexos,25531.08,False
+"M Actividades profesionales, cientificas y tecnicas",M,2010,Mujeres,21309.65,False
+"M Actividades profesionales, cientificas y tecnicas",M,2010,Hombres,30649.18,False
+"M Actividades profesionales, cientificas y tecnicas",M,2009,Ambos sexos,25516.94,False
+"M Actividades profesionales, cientificas y tecnicas",M,2009,Mujeres,20598.86,False
+"M Actividades profesionales, cientificas y tecnicas",M,2009,Hombres,31325.34,False
+"M Actividades profesionales, cientificas y tecnicas",M,2008,Ambos sexos,24733.75,False
+"M Actividades profesionales, cientificas y tecnicas",M,2008,Mujeres,19829.67,False
+"M Actividades profesionales, cientificas y tecnicas",M,2008,Hombres,30329.05,False
+N Actividades administrativas y servicios auxiliares,N,2024,Ambos sexos,21096.87,False
+N Actividades administrativas y servicios auxiliares,N,2024,Mujeres,17611.54,False
+N Actividades administrativas y servicios auxiliares,N,2024,Hombres,25450.66,False
+N Actividades administrativas y servicios auxiliares,N,2023,Ambos sexos,19891.91,False
+N Actividades administrativas y servicios auxiliares,N,2023,Mujeres,16766.78,False
+N Actividades administrativas y servicios auxiliares,N,2023,Hombres,23799.31,False
+N Actividades administrativas y servicios auxiliares,N,2022,Ambos sexos,18995.66,False
+N Actividades administrativas y servicios auxiliares,N,2022,Mujeres,16391.55,False
+N Actividades administrativas y servicios auxiliares,N,2022,Hombres,22360.55,False
+N Actividades administrativas y servicios auxiliares,N,2021,Ambos sexos,18118.66,False
+N Actividades administrativas y servicios auxiliares,N,2021,Mujeres,15248.42,False
+N Actividades administrativas y servicios auxiliares,N,2021,Hombres,21648.58,False
+N Actividades administrativas y servicios auxiliares,N,2020,Ambos sexos,17808.53,False
+N Actividades administrativas y servicios auxiliares,N,2020,Mujeres,14835.74,False
+N Actividades administrativas y servicios auxiliares,N,2020,Hombres,21522.75,False
+N Actividades administrativas y servicios auxiliares,N,2019,Ambos sexos,17107.54,False
+N Actividades administrativas y servicios auxiliares,N,2019,Mujeres,14322.39,False
+N Actividades administrativas y servicios auxiliares,N,2019,Hombres,20661.14,False
+N Actividades administrativas y servicios auxiliares,N,2018,Ambos sexos,17176.75,False
+N Actividades administrativas y servicios auxiliares,N,2018,Mujeres,14101.23,False
+N Actividades administrativas y servicios auxiliares,N,2018,Hombres,20793.89,False
+N Actividades administrativas y servicios auxiliares,N,2017,Ambos sexos,16519.76,False
+N Actividades administrativas y servicios auxiliares,N,2017,Mujeres,13604.08,False
+N Actividades administrativas y servicios auxiliares,N,2017,Hombres,20174.91,False
+N Actividades administrativas y servicios auxiliares,N,2016,Ambos sexos,16139.11,False
+N Actividades administrativas y servicios auxiliares,N,2016,Mujeres,13309.47,False
+N Actividades administrativas y servicios auxiliares,N,2016,Hombres,19749.55,False
+N Actividades administrativas y servicios auxiliares,N,2015,Ambos sexos,15948.63,False
+N Actividades administrativas y servicios auxiliares,N,2015,Mujeres,13085.14,False
+N Actividades administrativas y servicios auxiliares,N,2015,Hombres,19823.51,False
+N Actividades administrativas y servicios auxiliares,N,2014,Ambos sexos,15766.08,False
+N Actividades administrativas y servicios auxiliares,N,2014,Mujeres,12922.01,False
+N Actividades administrativas y servicios auxiliares,N,2014,Hombres,19623.29,False
+N Actividades administrativas y servicios auxiliares,N,2013,Ambos sexos,15809.74,False
+N Actividades administrativas y servicios auxiliares,N,2013,Mujeres,13028.72,False
+N Actividades administrativas y servicios auxiliares,N,2013,Hombres,19466.1,False
+N Actividades administrativas y servicios auxiliares,N,2012,Ambos sexos,16130.55,False
+N Actividades administrativas y servicios auxiliares,N,2012,Mujeres,13273.88,False
+N Actividades administrativas y servicios auxiliares,N,2012,Hombres,19875.18,False
+N Actividades administrativas y servicios auxiliares,N,2011,Ambos sexos,16199.14,False
+N Actividades administrativas y servicios auxiliares,N,2011,Mujeres,13246.21,False
+N Actividades administrativas y servicios auxiliares,N,2011,Hombres,19762.5,False
+N Actividades administrativas y servicios auxiliares,N,2010,Ambos sexos,15682.32,False
+N Actividades administrativas y servicios auxiliares,N,2010,Mujeres,12864.94,False
+N Actividades administrativas y servicios auxiliares,N,2010,Hombres,19705.22,False
+N Actividades administrativas y servicios auxiliares,N,2009,Ambos sexos,15855.38,False
+N Actividades administrativas y servicios auxiliares,N,2009,Mujeres,13056.08,False
+N Actividades administrativas y servicios auxiliares,N,2009,Hombres,19132.9,False
+N Actividades administrativas y servicios auxiliares,N,2008,Ambos sexos,15818.18,False
+N Actividades administrativas y servicios auxiliares,N,2008,Mujeres,13303.46,False
+N Actividades administrativas y servicios auxiliares,N,2008,Hombres,18666.16,False
+O Administracion Publica y defensa; Seguridad Social,O,2024,Ambos sexos,37517.88,False
+O Administracion Publica y defensa; Seguridad Social,O,2024,Mujeres,35694.12,False
+O Administracion Publica y defensa; Seguridad Social,O,2024,Hombres,39489.64,False
+O Administracion Publica y defensa; Seguridad Social,O,2023,Ambos sexos,36383.99,False
+O Administracion Publica y defensa; Seguridad Social,O,2023,Mujeres,34584.95,False
+O Administracion Publica y defensa; Seguridad Social,O,2023,Hombres,38237.83,False
+O Administracion Publica y defensa; Seguridad Social,O,2022,Ambos sexos,34036.02,False
+O Administracion Publica y defensa; Seguridad Social,O,2022,Mujeres,32272.17,False
+O Administracion Publica y defensa; Seguridad Social,O,2022,Hombres,35813.05,False
+O Administracion Publica y defensa; Seguridad Social,O,2021,Ambos sexos,34010.01,False
+O Administracion Publica y defensa; Seguridad Social,O,2021,Mujeres,32137.79,False
+O Administracion Publica y defensa; Seguridad Social,O,2021,Hombres,35908.23,False
+O Administracion Publica y defensa; Seguridad Social,O,2020,Ambos sexos,32581.96,False
+O Administracion Publica y defensa; Seguridad Social,O,2020,Mujeres,31268.62,False
+O Administracion Publica y defensa; Seguridad Social,O,2020,Hombres,33931.79,False
+O Administracion Publica y defensa; Seguridad Social,O,2019,Ambos sexos,31090.95,False
+O Administracion Publica y defensa; Seguridad Social,O,2019,Mujeres,29992.17,False
+O Administracion Publica y defensa; Seguridad Social,O,2019,Hombres,32213.06,False
+O Administracion Publica y defensa; Seguridad Social,O,2018,Ambos sexos,29824.04,False
+O Administracion Publica y defensa; Seguridad Social,O,2018,Mujeres,28095.08,False
+O Administracion Publica y defensa; Seguridad Social,O,2018,Hombres,31469.33,False
+O Administracion Publica y defensa; Seguridad Social,O,2017,Ambos sexos,29015.05,False
+O Administracion Publica y defensa; Seguridad Social,O,2017,Mujeres,27391.38,False
+O Administracion Publica y defensa; Seguridad Social,O,2017,Hombres,30581.96,False
+O Administracion Publica y defensa; Seguridad Social,O,2016,Ambos sexos,29134.91,False
+O Administracion Publica y defensa; Seguridad Social,O,2016,Mujeres,27547.36,False
+O Administracion Publica y defensa; Seguridad Social,O,2016,Hombres,30712.29,False
+O Administracion Publica y defensa; Seguridad Social,O,2015,Ambos sexos,28559.79,False
+O Administracion Publica y defensa; Seguridad Social,O,2015,Mujeres,27305.84,False
+O Administracion Publica y defensa; Seguridad Social,O,2015,Hombres,29827.97,False
+O Administracion Publica y defensa; Seguridad Social,O,2014,Ambos sexos,27568.54,False
+O Administracion Publica y defensa; Seguridad Social,O,2014,Mujeres,26267.91,False
+O Administracion Publica y defensa; Seguridad Social,O,2014,Hombres,28772.03,False
+O Administracion Publica y defensa; Seguridad Social,O,2013,Ambos sexos,27707.13,False
+O Administracion Publica y defensa; Seguridad Social,O,2013,Mujeres,25583.73,False
+O Administracion Publica y defensa; Seguridad Social,O,2013,Hombres,29827.25,False
+O Administracion Publica y defensa; Seguridad Social,O,2012,Ambos sexos,26878.73,False
+O Administracion Publica y defensa; Seguridad Social,O,2012,Mujeres,25092.34,False
+O Administracion Publica y defensa; Seguridad Social,O,2012,Hombres,28632.29,False
+O Administracion Publica y defensa; Seguridad Social,O,2011,Ambos sexos,27816.09,False
+O Administracion Publica y defensa; Seguridad Social,O,2011,Mujeres,25850.93,False
+O Administracion Publica y defensa; Seguridad Social,O,2011,Hombres,29877.61,False
+O Administracion Publica y defensa; Seguridad Social,O,2010,Ambos sexos,28001.68,False
+O Administracion Publica y defensa; Seguridad Social,O,2010,Mujeres,26224.16,False
+O Administracion Publica y defensa; Seguridad Social,O,2010,Hombres,29872.45,False
+O Administracion Publica y defensa; Seguridad Social,O,2009,Ambos sexos,27590.9,False
+O Administracion Publica y defensa; Seguridad Social,O,2009,Mujeres,25830.1,False
+O Administracion Publica y defensa; Seguridad Social,O,2009,Hombres,29382.33,False
+O Administracion Publica y defensa; Seguridad Social,O,2008,Ambos sexos,26927.57,False
+O Administracion Publica y defensa; Seguridad Social,O,2008,Mujeres,24860.38,False
+O Administracion Publica y defensa; Seguridad Social,O,2008,Hombres,29023.9,False
+P Educacion,P,2024,Ambos sexos,32210.11,False
+P Educacion,P,2024,Mujeres,31350.59,False
+P Educacion,P,2024,Hombres,33953.98,False
+P Educacion,P,2023,Ambos sexos,30913.75,False
+P Educacion,P,2023,Mujeres,30342.13,False
+P Educacion,P,2023,Hombres,32129.3,False
+P Educacion,P,2022,Ambos sexos,29263.89,False
+P Educacion,P,2022,Mujeres,28258.5,False
+P Educacion,P,2022,Hombres,31290.07,False
+P Educacion,P,2021,Ambos sexos,28272.76,False
+P Educacion,P,2021,Mujeres,27453.63,False
+P Educacion,P,2021,Hombres,29804.04,False
+P Educacion,P,2020,Ambos sexos,27076.32,False
+P Educacion,P,2020,Mujeres,26349.55,False
+P Educacion,P,2020,Hombres,28469.49,False
+P Educacion,P,2019,Ambos sexos,25913.06,False
+P Educacion,P,2019,Mujeres,25220.98,False
+P Educacion,P,2019,Hombres,27292.76,False
+P Educacion,P,2018,Ambos sexos,23679.17,False
+P Educacion,P,2018,Mujeres,23225.84,False
+P Educacion,P,2018,Hombres,24532.37,False
+P Educacion,P,2017,Ambos sexos,23559.77,False
+P Educacion,P,2017,Mujeres,22784.01,False
+P Educacion,P,2017,Hombres,25093.05,False
+P Educacion,P,2016,Ambos sexos,22289.73,False
+P Educacion,P,2016,Mujeres,21622.53,False
+P Educacion,P,2016,Hombres,23662.96,False
+P Educacion,P,2015,Ambos sexos,21667.33,False
+P Educacion,P,2015,Mujeres,20981.61,False
+P Educacion,P,2015,Hombres,23143.33,False
+P Educacion,P,2014,Ambos sexos,20925.83,False
+P Educacion,P,2014,Mujeres,20347.91,False
+P Educacion,P,2014,Hombres,22079.28,False
+P Educacion,P,2013,Ambos sexos,21946.95,False
+P Educacion,P,2013,Mujeres,20974.85,False
+P Educacion,P,2013,Hombres,23890.76,False
+P Educacion,P,2012,Ambos sexos,21596.16,False
+P Educacion,P,2012,Mujeres,20700.46,False
+P Educacion,P,2012,Hombres,23477.45,False
+P Educacion,P,2011,Ambos sexos,21564.58,False
+P Educacion,P,2011,Mujeres,20797.76,False
+P Educacion,P,2011,Hombres,23271.51,False
+P Educacion,P,2010,Ambos sexos,21751.87,False
+P Educacion,P,2010,Mujeres,20872.37,False
+P Educacion,P,2010,Hombres,23453.74,False
+P Educacion,P,2009,Ambos sexos,21703.1,False
+P Educacion,P,2009,Mujeres,21459.46,False
+P Educacion,P,2009,Hombres,22237.76,False
+P Educacion,P,2008,Ambos sexos,20883.28,False
+P Educacion,P,2008,Mujeres,20591.85,False
+P Educacion,P,2008,Hombres,21489.54,False
+Q Actividades sanitarias y de servicios sociales,Q,2024,Ambos sexos,32224.93,False
+Q Actividades sanitarias y de servicios sociales,Q,2024,Mujeres,30197.1,False
+Q Actividades sanitarias y de servicios sociales,Q,2024,Hombres,39246.0,False
+Q Actividades sanitarias y de servicios sociales,Q,2023,Ambos sexos,31211.67,False
+Q Actividades sanitarias y de servicios sociales,Q,2023,Mujeres,29198.31,False
+Q Actividades sanitarias y de servicios sociales,Q,2023,Hombres,38317.12,False
+Q Actividades sanitarias y de servicios sociales,Q,2022,Ambos sexos,30381.25,False
+Q Actividades sanitarias y de servicios sociales,Q,2022,Mujeres,28312.57,False
+Q Actividades sanitarias y de servicios sociales,Q,2022,Hombres,37097.58,False
+Q Actividades sanitarias y de servicios sociales,Q,2021,Ambos sexos,28891.41,False
+Q Actividades sanitarias y de servicios sociales,Q,2021,Mujeres,26403.18,False
+Q Actividades sanitarias y de servicios sociales,Q,2021,Hombres,37270.15,False
+Q Actividades sanitarias y de servicios sociales,Q,2020,Ambos sexos,28313.74,False
+Q Actividades sanitarias y de servicios sociales,Q,2020,Mujeres,25957.39,False
+Q Actividades sanitarias y de servicios sociales,Q,2020,Hombres,36248.27,False
+Q Actividades sanitarias y de servicios sociales,Q,2019,Ambos sexos,27557.2,False
+Q Actividades sanitarias y de servicios sociales,Q,2019,Mujeres,25432.12,False
+Q Actividades sanitarias y de servicios sociales,Q,2019,Hombres,34771.18,False
+Q Actividades sanitarias y de servicios sociales,Q,2018,Ambos sexos,26851.1,False
+Q Actividades sanitarias y de servicios sociales,Q,2018,Mujeres,24599.63,False
+Q Actividades sanitarias y de servicios sociales,Q,2018,Hombres,34173.79,False
+Q Actividades sanitarias y de servicios sociales,Q,2017,Ambos sexos,26076.47,False
+Q Actividades sanitarias y de servicios sociales,Q,2017,Mujeres,23839.44,False
+Q Actividades sanitarias y de servicios sociales,Q,2017,Hombres,33735.05,False
+Q Actividades sanitarias y de servicios sociales,Q,2016,Ambos sexos,25955.32,False
+Q Actividades sanitarias y de servicios sociales,Q,2016,Mujeres,23655.12,False
+Q Actividades sanitarias y de servicios sociales,Q,2016,Hombres,33723.1,False
+Q Actividades sanitarias y de servicios sociales,Q,2015,Ambos sexos,25823.88,False
+Q Actividades sanitarias y de servicios sociales,Q,2015,Mujeres,23889.48,False
+Q Actividades sanitarias y de servicios sociales,Q,2015,Hombres,32830.89,False
+Q Actividades sanitarias y de servicios sociales,Q,2014,Ambos sexos,24826.42,False
+Q Actividades sanitarias y de servicios sociales,Q,2014,Mujeres,22864.48,False
+Q Actividades sanitarias y de servicios sociales,Q,2014,Hombres,30865.19,False
+Q Actividades sanitarias y de servicios sociales,Q,2013,Ambos sexos,24804.42,False
+Q Actividades sanitarias y de servicios sociales,Q,2013,Mujeres,22691.89,False
+Q Actividades sanitarias y de servicios sociales,Q,2013,Hombres,32175.94,False
+Q Actividades sanitarias y de servicios sociales,Q,2012,Ambos sexos,25103.59,False
+Q Actividades sanitarias y de servicios sociales,Q,2012,Mujeres,22843.58,False
+Q Actividades sanitarias y de servicios sociales,Q,2012,Hombres,32786.85,False
+Q Actividades sanitarias y de servicios sociales,Q,2011,Ambos sexos,26058.28,False
+Q Actividades sanitarias y de servicios sociales,Q,2011,Mujeres,23893.28,False
+Q Actividades sanitarias y de servicios sociales,Q,2011,Hombres,33198.3,False
+Q Actividades sanitarias y de servicios sociales,Q,2010,Ambos sexos,26331.24,False
+Q Actividades sanitarias y de servicios sociales,Q,2010,Mujeres,24173.67,False
+Q Actividades sanitarias y de servicios sociales,Q,2010,Hombres,33556.49,False
+Q Actividades sanitarias y de servicios sociales,Q,2009,Ambos sexos,25622.97,False
+Q Actividades sanitarias y de servicios sociales,Q,2009,Mujeres,23850.5,False
+Q Actividades sanitarias y de servicios sociales,Q,2009,Hombres,31757.12,False
+Q Actividades sanitarias y de servicios sociales,Q,2008,Ambos sexos,24837.68,False
+Q Actividades sanitarias y de servicios sociales,Q,2008,Mujeres,23088.89,False
+Q Actividades sanitarias y de servicios sociales,Q,2008,Hombres,30503.04,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2024,Ambos sexos,20383.16,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2024,Mujeres,18551.36,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2024,Hombres,21884.96,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2023,Ambos sexos,20634.29,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2023,Mujeres,18846.49,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2023,Hombres,21941.85,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2022,Ambos sexos,19360.67,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2022,Mujeres,17268.37,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2022,Hombres,20892.08,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2021,Ambos sexos,18380.69,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2021,Mujeres,16753.59,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2021,Hombres,19600.5,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2020,Ambos sexos,18638.95,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2020,Mujeres,16822.41,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2020,Hombres,19934.49,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2019,Ambos sexos,18088.1,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2019,Mujeres,16253.15,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2019,Hombres,19402.36,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2018,Ambos sexos,18517.55,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2018,Mujeres,16365.6,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2018,Hombres,20139.56,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2017,Ambos sexos,17703.25,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2017,Mujeres,15526.43,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2017,Hombres,19406.65,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2016,Ambos sexos,17525.18,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2016,Mujeres,15209.43,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2016,Hombres,19367.34,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2015,Ambos sexos,17375.02,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2015,Mujeres,14741.49,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2015,Hombres,19571.39,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2014,Ambos sexos,16912.45,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2014,Mujeres,13824.19,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2014,Hombres,19512.34,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2013,Ambos sexos,18101.83,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2013,Mujeres,15960.79,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2013,Hombres,19938.5,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2012,Ambos sexos,17222.25,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2012,Mujeres,14784.54,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2012,Hombres,19139.23,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2011,Ambos sexos,18106.28,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2011,Mujeres,15840.54,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2011,Hombres,19872.84,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2010,Ambos sexos,18044.67,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2010,Mujeres,15131.16,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2010,Hombres,20345.08,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2009,Ambos sexos,16857.96,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2009,Mujeres,15058.31,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2009,Hombres,18371.52,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2008,Ambos sexos,16763.31,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2008,Mujeres,14538.66,False
+"R Actividades artisticas, recreativas y de entretenimiento",R,2008,Hombres,18667.22,False
+S Otros servicios,S,2024,Ambos sexos,20951.43,False
+S Otros servicios,S,2024,Mujeres,18913.05,False
+S Otros servicios,S,2024,Hombres,24903.68,False
+S Otros servicios,S,2023,Ambos sexos,19751.59,False
+S Otros servicios,S,2023,Mujeres,17807.08,False
+S Otros servicios,S,2023,Hombres,23507.51,False
+S Otros servicios,S,2022,Ambos sexos,18269.96,False
+S Otros servicios,S,2022,Mujeres,16590.01,False
+S Otros servicios,S,2022,Hombres,22151.54,False
+S Otros servicios,S,2021,Ambos sexos,18220.77,False
+S Otros servicios,S,2021,Mujeres,16367.77,False
+S Otros servicios,S,2021,Hombres,21823.47,False
+S Otros servicios,S,2020,Ambos sexos,17468.15,False
+S Otros servicios,S,2020,Mujeres,15319.56,False
+S Otros servicios,S,2020,Hombres,21780.54,False
+S Otros servicios,S,2019,Ambos sexos,17066.82,False
+S Otros servicios,S,2019,Mujeres,14952.83,False
+S Otros servicios,S,2019,Hombres,21425.62,False
+S Otros servicios,S,2018,Ambos sexos,16374.23,False
+S Otros servicios,S,2018,Mujeres,14266.89,False
+S Otros servicios,S,2018,Hombres,20798.04,False
+S Otros servicios,S,2017,Ambos sexos,16202.92,False
+S Otros servicios,S,2017,Mujeres,14000.99,False
+S Otros servicios,S,2017,Hombres,20752.34,False
+S Otros servicios,S,2016,Ambos sexos,15782.15,False
+S Otros servicios,S,2016,Mujeres,13687.57,False
+S Otros servicios,S,2016,Hombres,20195.94,False
+S Otros servicios,S,2015,Ambos sexos,16033.97,False
+S Otros servicios,S,2015,Mujeres,13772.86,False
+S Otros servicios,S,2015,Hombres,20781.89,False
+S Otros servicios,S,2014,Ambos sexos,16225.41,False
+S Otros servicios,S,2014,Mujeres,13960.86,False
+S Otros servicios,S,2014,Hombres,21003.6,False
+S Otros servicios,S,2013,Ambos sexos,16734.95,False
+S Otros servicios,S,2013,Mujeres,14190.29,False
+S Otros servicios,S,2013,Hombres,21893.63,False
+S Otros servicios,S,2012,Ambos sexos,16918.36,False
+S Otros servicios,S,2012,Mujeres,14254.29,False
+S Otros servicios,S,2012,Hombres,22308.37,False
+S Otros servicios,S,2011,Ambos sexos,17035.17,False
+S Otros servicios,S,2011,Mujeres,14315.37,False
+S Otros servicios,S,2011,Hombres,22304.83,False
+S Otros servicios,S,2010,Ambos sexos,16544.57,False
+S Otros servicios,S,2010,Mujeres,14040.56,False
+S Otros servicios,S,2010,Hombres,21759.21,False
+S Otros servicios,S,2009,Ambos sexos,15868.73,False
+S Otros servicios,S,2009,Mujeres,13721.92,False
+S Otros servicios,S,2009,Hombres,20085.94,False
+S Otros servicios,S,2008,Ambos sexos,15412.44,False
+S Otros servicios,S,2008,Mujeres,13066.14,False
+S Otros servicios,S,2008,Hombres,19826.09,False
