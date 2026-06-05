@@ -1,0 +1,28 @@
+[project]
+name = "pearsons-four"
+version = "2.0.0"
+description = "EDA Data Science Job Salaries — LinkedIn + Stack Overflow + Spain Market Study"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+    "seaborn>=0.12",
+    "scipy>=1.10",
+    "scrapling>=0.4",
+    "kagglehub>=0.3",
+    "streamlit>=1.28",
+    "plotly>=5.15",
+    "pycountry>=22.3",
+    "openpyxl>=3.1",
+    "nbformat>=5.9",
+    "pytest>=7.4",
+    "pytest-cov>=4.1",
+]
+
+[project.urls]
+Repository = "https://github.com/juandelaf1/Pearsons_Four"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
