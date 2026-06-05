@@ -1,0 +1,150 @@
+﻿Dataset,Source,Role,Experience_Level,Salary_USD,Salary_EUR,Views,Applies,Remote,Work_Type,Location,Company,Country
+Spain,Manfred 2026,Backend Engineer,<2 años,27000.0,25000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Backend Engineer,2-5 años,38340.0,35500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Backend Engineer,5-10 años,49140.0,45500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Backend Engineer,>10 años,57240.00000000001,53000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Frontend Engineer,<2 años,27000.0,25000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Frontend Engineer,2-5 años,35640.0,33000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Frontend Engineer,5-10 años,40500.0,37500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Frontend Engineer,>10 años,48600.0,45000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Full-Stack Engineer,<2 años,27000.0,25000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Full-Stack Engineer,2-5 años,38340.0,35500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Full-Stack Engineer,5-10 años,49140.0,45500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Full-Stack Engineer,>10 años,59940.00000000001,55500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,AI Engineer,<2 años,32400.000000000004,30000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,AI Engineer,2-5 años,46440.0,43000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,AI Engineer,5-10 años,65340.00000000001,60500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,AI Engineer,>10 años,86940.0,80500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Mobile Engineer,<2 años,27000.0,25000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Mobile Engineer,2-5 años,38340.0,35500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Mobile Engineer,5-10 años,46440.0,43000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Mobile Engineer,>10 años,51840.0,48000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,QA & Testing,<2 años,24300.0,22500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,QA & Testing,2-5 años,31320.000000000004,29000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,QA & Testing,5-10 años,39420.0,36500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,QA & Testing,>10 años,46440.0,43000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,SysAdmin,<2 años,24300.0,22500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,SysAdmin,2-5 años,32940.0,30500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,SysAdmin,5-10 años,43740.0,40500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,SysAdmin,>10 años,51840.0,48000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,SRE/DevOps Engineer,<2 años,32400.000000000004,30000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,SRE/DevOps Engineer,2-5 años,43740.0,40500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,SRE/DevOps Engineer,5-10 años,57240.00000000001,53000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,SRE/DevOps Engineer,>10 años,76140.0,70500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Engineer,<2 años,32400.000000000004,30000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Engineer,2-5 años,43740.0,40500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Engineer,5-10 años,57240.00000000001,53000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Engineer,>10 años,76140.0,70500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Scientist,<2 años,32400.000000000004,30000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Scientist,2-5 años,46440.0,43000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Scientist,5-10 años,65340.00000000001,60500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Scientist,>10 años,92340.0,85500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Analyst,<2 años,24300.0,22500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Analyst,2-5 años,32940.0,30500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Analyst,5-10 años,42120.0,39000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Analyst,>10 años,50220.0,46500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,MLOps Engineer,<2 años,32400.000000000004,30000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,MLOps Engineer,2-5 años,46440.0,43000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,MLOps Engineer,5-10 años,68040.0,63000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,MLOps Engineer,>10 años,94500.0,87500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Architect,<2 años,,,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Architect,2-5 años,51300.0,47500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Architect,5-10 años,70740.0,65500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Data Architect,>10 años,94500.0,87500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Software Architect,<2 años,,,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Software Architect,2-5 años,48600.0,45000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Software Architect,5-10 años,68040.0,63000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Software Architect,>10 años,94500.0,87500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Tech Lead,<2 años,,,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Tech Lead,2-5 años,48600.0,45000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Tech Lead,5-10 años,62640.00000000001,58000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Tech Lead,>10 años,78300.0,72500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Staff Engineer,5-10 años,81000.0,75000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Staff Engineer,>10 años,111240.00000000001,103000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Engineering Manager,5-10 años,78300.0,72500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Engineering Manager,>10 años,105840.0,98000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,VP Engineering,5-10 años,99900.0,92500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,VP Engineering,>10 años,140400.0,130000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,CTO / Head of Engineering,5-10 años,78300.0,72500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,CTO / Head of Engineering,>10 años,124740.00000000001,115500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Product Manager,<2 años,,,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Product Manager,2-5 años,41040.0,38000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Product Manager,5-10 años,54540.0,50500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Product Manager,>10 años,72900.0,67500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Product Designer,<2 años,24300.0,22500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Product Designer,2-5 años,30240.000000000004,28000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Product Designer,5-10 años,38340.0,35500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Product Designer,>10 años,49140.0,45500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Security/Cybersecurity Engineer,<2 años,29700.000000000004,27500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Security/Cybersecurity Engineer,2-5 años,38340.0,35500.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Security/Cybersecurity Engineer,5-10 años,51840.0,48000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Manfred 2026,Security/Cybersecurity Engineer,>10 años,73440.0,68000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2024,4616129.5200000005,4274194.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2024,4191164.64,3880708.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2024,4865864.4,4505430.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2023,4284838.44,3967443.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2023,3930418.08,3639276.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2023,4485948.48,4153656.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2022,4043363.4000000004,3743855.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2022,3705150.6,3430695.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2022,4226590.8,3913510.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2021,3956091.8400000003,3663048.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2021,3588360.4800000004,3322556.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2021,4159530.3600000003,3851417.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2020,3851690.4000000004,3566380.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2020,3480594.8400000003,3222773.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2020,4058695.08,3758051.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2019,3741258.24,3464128.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2019,3337045.56,3089857.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2019,3968612.2800000003,3674641.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2018,3576705.12,3311764.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2018,3142742.7600000002,2909947.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2018,3824412.8400000003,3541123.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2017,3635740.08,3366426.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2017,3241677.24,3001553.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2017,3863028.24,3576878.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2016,3504417.4800000004,3244831.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2016,3114122.7600000002,2883447.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2016,3723306.4800000004,3447506.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2015,3568992.8400000003,3304623.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2015,3125059.9200000004,2893574.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2015,3825128.8800000004,3541786.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2014,3537454.68,3275421.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2014,3156188.7600000002,2922397.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2014,3751984.8000000003,3474060.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2013,3578814.3600000003,3313717.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2013,3094339.3200000003,2865129.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2013,3861676.08,3575626.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2012,3512387.8800000004,3252211.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2012,3041958.24,2816628.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2012,3801171.24,3519603.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2011,3509032.3200000003,3249104.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2011,3074139.0,2846425.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2011,3779013.9600000004,3499087.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2010,3501973.4400000004,3242568.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2010,3089894.04,2861013.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2010,3750514.9200000004,3472699.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2009,3407578.2,3155165.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2009,2885362.56,2671632.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2009,3727451.52,3451344.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Ambos sexos,2008,3307875.8400000003,3062848.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Mujeres,2008,2869953.12,2657364.0,,,Unknown,Full-time,Spain,,Spain
+Spain,INE,INE Sector J - Hombres,2008,3573729.72,3309009.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,rango,45360.0,42000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,41040.0,38000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,46440.0,43000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,75600.0,70000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,33993.0,31475.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,60480.00000000001,56000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,37800.0,35000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,32400.000000000004,30000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,68538.96,63462.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,81000.0,75000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,70200.0,65000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,93960.0,87000.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,84915.0,78625.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,137393.28,127216.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,91160.64,84408.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,192875.04,178588.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,88926.12000000001,82339.0,,,Unknown,Full-time,Spain,,Spain
+Spain,Glassdoor,Data Scientist,estimacion,180203.40000000002,166855.0,,,Unknown,Full-time,Spain,,Spain
