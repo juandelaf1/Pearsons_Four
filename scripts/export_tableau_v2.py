@@ -13,27 +13,39 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def parse_salary_eur(s):
-    """Parsea rango salarial español a valor numérico (midpoint en EUR)."""
+    """Parsea rango salarial español a valor numérico (midpoint en EUR).
+    Maneja formatos: '42741.94 EUR', '30-40K', '41.000 EUR', '25K' etc."""
     if pd.isna(s):
         return None
     s = str(s).replace('\u20ac', 'EUR').replace('\u2013', '-').replace('\u2014', '-').strip()
 
+    # "42741.94 EUR" (English decimal) or "41.000 EUR" (European decimal)
     m = re.search(r'([\d.,]+)\s*EUR', s)
     if m:
-        try:
-            return float(m.group(1).replace('.', '').replace(',', '.'))
-        except:
-            pass
+        raw = m.group(1)
+        # Try European format first (remove dots, comma -> decimal)
+        val_eu = float(raw.replace('.', '').replace(',', '.'))
+        if val_eu < 200000:
+            return val_eu
+        # If too large, treat dot as decimal separator
+        val_en = float(raw.replace(',', ''))
+        if val_en < 200000:
+            return val_en
+        # Last resort: use the smaller of the two
+        return min(val_eu, val_en)
 
-    m = re.search(r'€?(\d+)\s*[–\-–]\s*€?(\d+)\s*K?', s)
+    # "30-40K" or "30K-40K"
+    m = re.search(r'€?\s*(\d+)\s*[–\-]\s*€?\s*(\d+)\s*K?', s)
     if m:
         lo, hi = int(m.group(1)), int(m.group(2))
         return (lo + hi) / 2 * 1000
 
-    m = re.search(r'€?(\d+)\s*K', s)
+    # "25K" or "30K"
+    m = re.search(r'€?\s*(\d+)\s*K', s)
     if m:
         return int(m.group(1)) * 1000
 
+    # Plain number
     m = re.search(r'(\d+)', s)
     if m:
         try:
@@ -157,12 +169,18 @@ def export_consolidated_v2():
 
     out_path = OUTPUT_DIR / 'pearsons_four_consolidated.csv'
     out.to_csv(out_path, index=False, encoding='utf-8-sig')
-    print(f"\nConsolidated: {len(out)} records total -> {out_path}")
 
+    # Also save a clean version with basic salary sanity filter
+    clean = out[out['Salary_EUR'].isna() | (out['Salary_EUR'] < 500000)].copy()
+    clean_path = OUTPUT_DIR / 'pearsons_four_clean.csv'
+    clean.to_csv(clean_path, index=False, encoding='utf-8-sig')
+
+    print(f"\nConsolidated: {len(out)} records total -> {out_path}")
+    print(f"Clean (salaries < 500k): {len(clean)} records -> {clean_path}")
     print(f"\n  LinkedIn:    {len(li) if li is not None else 0} records")
     print(f"  Spain:       {len(es) if es is not None else 0} records")
     print(f"  With salary: {out['Salary_EUR'].notna().sum()} records")
-    return out
+    return clean
 
 
 def main():
