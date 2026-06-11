@@ -1,35 +1,22 @@
 ---
-name: Task / Tarea
-about: Create a task for the EDA project
+name: Task
+about: Track a specific work item
 title: "[TASK] "
 labels: task
-assignees: ''
-
+assignees: juandelaf1
 ---
 
-## Description / Descripción
+**Objective**
+What needs to be done.
 
-<!-- Briefly describe the task in English and/or Spanish -->
+**Definition of Done**
+- [ ] Criterion 1
+- [ ] Criterion 2
+- [ ] Tests added/updated
+- [ ] Documentation updated
 
-## Section in Colab
+**Estimated effort**
+[Small / Medium / Large]
 
-<!-- Which section of the notebook does this belong to? -->
-
-## Owner / Dueño
-
-<!-- Who is responsible? -->
-
-## Checklist
-
-- [ ] Code written in Colab
-- [ ] Markdown interpretation added
-- [ ] Peer reviewed
-- [ ] PR merged to main
-
-## Dependencies
-
-<!-- Does this task depend on another being completed first? -->
-
-## Business Question / Pregunta de Negocio
-
-<!-- How does this task help answer DataTalent's business questions? -->
+**Depends on**
+#(issue number if applicable)

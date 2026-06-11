@@ -1,0 +1,169 @@
+﻿role_normalized,seniority,median_salary,premium_usd,premium_pct
+AI Engineer,Manager,260000.0,244973.0,1630.2
+AI Engineer,Principal,197500.0,182473.0,1214.3
+AI Engineer,Mid,160000.0,144973.0,964.8
+AI Engineer,Senior,158300.0,143273.0,953.4
+AI Engineer,5-10 años,5170.0,-9857.0,-65.6
+AI Engineer,2-5 años,3650.0,-11377.0,-75.7
+AI Engineer,<2 años,2535.0,-12492.0,-83.1
+AI Engineer,>10 años,81.0,-14946.0,-99.5
+BI Analyst,Senior,137280.0,,
+BI Analyst,Lead,130775.0,,
+BI Analyst,VP,121125.0,,
+BI Analyst,Intern,70055.0,,
+BI Analyst,Manager,166000.0,,
+BI Analyst,Mid,120640.0,,
+BI Analyst,Director,205000.0,,
+BI Analyst,Junior,80000.0,,
+Backend Engineer,<2 años,2030.0,,
+Backend Engineer,5-10 años,4150.0,,
+Backend Engineer,2-5 años,3140.0,,
+Backend Engineer,>10 años,53.0,,
+Computer Vision Engineer,Mid,50578.0,-19422.0,-27.7
+Computer Vision Engineer,Senior,24000.0,-46000.0,-65.7
+Data Analyst,Director,300000.0,240898.0,407.6
+Data Analyst,Principal,300000.0,240898.0,407.6
+Data Analyst,Staff,167500.0,108398.0,183.4
+Data Analyst,Lead,156000.0,96898.0,164.0
+Data Analyst,Executive,135000.0,75898.0,128.4
+Data Analyst,Manager,125000.0,65898.0,111.5
+Data Analyst,Senior,115167.0,56065.0,94.9
+Data Analyst,VP,112500.0,53398.0,90.3
+Data Analyst,Junior,73750.0,14648.0,24.8
+Data Analyst,Mid,68175.0,9073.0,15.4
+Data Analyst,Intern,52000.0,-7102.0,-12.0
+Data Analyst,5-10 años,3642.0,-55460.0,-93.8
+Data Analyst,2-5 años,2635.0,-56467.0,-95.5
+Data Analyst,<2 años,2025.0,-57077.0,-96.6
+Data Analyst,>10 años,47.0,-59055.0,-99.9
+Data Architect,Senior,165000.0,,
+Data Architect,Director,197500.0,,
+Data Architect,>10 años,88.0,,
+Data Architect,2-5 años,48.0,,
+Data Architect,Mid,170000.0,,
+Data Architect,VP,136200.0,,
+Data Architect,5-10 años,66.0,,
+Data Engineer,VP,349325.0,294583.0,538.1
+Data Engineer,Principal,230175.0,175433.0,320.5
+Data Engineer,Director,224500.0,169758.0,310.1
+Data Engineer,Executive,216000.0,161258.0,294.6
+Data Engineer,Staff,201178.0,146436.0,267.5
+Data Engineer,Manager,186250.0,131508.0,240.2
+Data Engineer,Lead,156000.0,101258.0,185.0
+Data Engineer,Senior,140125.0,85383.0,156.0
+Data Engineer,Mid,80527.0,25785.0,47.1
+Data Engineer,5-10 años,4660.0,-50082.0,-91.5
+Data Engineer,2-5 años,3645.0,-51097.0,-93.3
+Data Engineer,<2 años,2535.0,-52207.0,-95.4
+Data Engineer,>10 años,71.0,-54671.0,-99.9
+Data General,Principal,195700.0,,
+Data General,Lead,152500.0,,
+Data General,VP,225000.0,,
+Data General,Manager,135000.0,,
+Data General,Senior,91500.0,,
+Data General,Mid,135504.0,,
+Data General,Director,184350.0,,
+Data Manager,Senior,168000.0,,
+Data Manager,Mid,71487.0,,
+Data Manager,Manager,107371.0,,
+Data Manager,Principal,138237.0,,
+Data Manager,Executive,196979.0,,
+Data Scientist,Executive,242871.0,187673.0,340.0
+Data Scientist,Director,222545.0,167347.0,303.2
+Data Scientist,VP,222500.0,167302.0,303.1
+Data Scientist,Lead,194273.0,139075.0,252.0
+Data Scientist,Principal,193500.0,138302.0,250.6
+Data Scientist,Staff,187383.0,132185.0,239.5
+Data Scientist,Senior,151000.0,95802.0,173.6
+Data Scientist,Junior,99500.0,44302.0,80.3
+Data Scientist,Mid,89327.0,34129.0,61.8
+Data Scientist,estimacion,70000.0,14802.0,26.8
+Data Scientist,rango,35000.0,-20198.0,-36.6
+Data Scientist,Intern,22383.0,-32815.0,-59.4
+Data Scientist,5-10 años,5170.0,-50028.0,-90.6
+Data Scientist,2-5 años,3650.0,-51548.0,-93.4
+Data Scientist,<2 años,2535.0,-52663.0,-95.4
+Data Scientist,>10 años,86.0,-55112.0,-99.8
+DevOps Engineer,>10 años,71.0,,
+DevOps Engineer,<2 años,2535.0,,
+DevOps Engineer,5-10 años,4660.0,,
+DevOps Engineer,2-5 años,3645.0,,
+Financial Analyst,Mid,93059.0,,
+Financial Analyst,Manager,131950.0,,
+Financial Analyst,Senior,85250.0,,
+Financial Analyst,Director,170000.0,,
+Frontend Engineer,2-5 años,3135.0,,
+Frontend Engineer,5-10 años,3540.0,,
+Frontend Engineer,<2 años,2030.0,,
+Frontend Engineer,>10 años,45.0,,
+Fullstack Engineer,2-5 años,3140.0,,
+Fullstack Engineer,<2 años,2030.0,,
+Fullstack Engineer,5-10 años,4150.0,,
+Fullstack Engineer,>10 años,56.0,,
+Healthcare Data Specialist,Senior,231500.0,,
+Healthcare Data Specialist,Manager,80000.0,,
+Healthcare Data Specialist,Director,220000.0,,
+ML Engineer,Manager,210000.0,150850.0,255.0
+ML Engineer,Lead,187250.0,128100.0,216.6
+ML Engineer,Senior,164996.0,105846.0,178.9
+ML Engineer,Staff,163500.0,104350.0,176.4
+ML Engineer,Junior,104000.0,44850.0,75.8
+ML Engineer,Executive,79039.0,19889.0,33.6
+ML Engineer,Mid,78078.0,18928.0,32.0
+ML Engineer,Intern,74521.0,15371.0,26.0
+ML Engineer,5-10 años,5175.0,-53975.0,-91.3
+ML Engineer,2-5 años,3650.0,-55500.0,-93.8
+ML Engineer,<2 años,2535.0,-56615.0,-95.7
+ML Engineer,>10 años,88.0,-59062.0,-99.9
+Marketing Analyst,Manager,122500.0,,
+Marketing Analyst,Lead,161050.0,,
+Marketing Analyst,Senior,110000.0,,
+Mobile Engineer,>10 años,48.0,,
+Mobile Engineer,<2 años,2030.0,,
+Mobile Engineer,2-5 años,3140.0,,
+Mobile Engineer,5-10 años,4145.0,,
+NLP Engineer,Mid,37236.0,,
+Other,2018,3311764.0,,
+Other,<2 años,1024.0,,
+Other,2020,3566380.0,,
+Other,2013,3313717.0,,
+Other,2011,3249104.0,,
+Other,2-5 años,45.0,,
+Other,2015,3304623.0,,
+Other,5-10 años,58.0,,
+Other,2014,3275421.0,,
+Other,2023,3967443.0,,
+Other,2017,3366426.0,,
+Other,2019,3464128.0,,
+Other,>10 años,48.0,,
+Other,2024,4274194.0,,
+Other,2010,3242568.0,,
+Other,2009,3155165.0,,
+Other,2012,3252211.0,,
+Other,2008,3062848.0,,
+Other,2016,3244831.0,,
+Other,2021,3663048.0,,
+Other,2022,3743855.0,,
+Other Data,Senior,99850.0,,
+Other Data,Director,235000.0,,
+Product Manager,Manager,179175.0,,
+Product Manager,>10 años,68.0,,
+Product Manager,2-5 años,38.0,,
+Product Manager,5-10 años,51.0,,
+Product Manager,Principal,211950.0,,
+QA Engineer,<2 años,2025.0,,
+QA Engineer,2-5 años,2632.0,,
+QA Engineer,>10 años,43.0,,
+QA Engineer,5-10 años,3340.0,,
+Research Scientist,Senior,93427.0,2163.0,2.4
+Research Scientist,Mid,64849.0,-26415.0,-28.9
+Security Engineer,5-10 años,48.0,,
+Security Engineer,2-5 años,36.0,,
+Security Engineer,<2 años,28.0,,
+Security Engineer,>10 años,68.0,,
+Supply Chain Analyst,Manager,171050.0,,
+Supply Chain Analyst,Senior,81187.0,,
+Tech General,5-10 años,75.0,,
+Tech General,2-5 años,45.0,,
+Tech General,Mid,54957.0,,
+Tech General,>10 años,103.0,,

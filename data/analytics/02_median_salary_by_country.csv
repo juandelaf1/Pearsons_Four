@@ -1,0 +1,10 @@
+﻿country_name,n_records,median_salary_usd,mean_salary_usd,median_ppp_usd,mean_ppp_usd
+United States,976,135794.0,149681.0,,
+Canada,30,81896.0,99824.0,,
+United Kingdom,47,78526.0,81583.0,,
+Germany,28,78015.0,81887.0,61251.0,64984.0
+Japan,6,75682.0,114127.0,,
+France,15,56738.0,63971.0,54088.0,60929.0
+Greece,11,49461.0,52293.0,,
+Spain,159,38000.0,1112532.0,65608.0,71634.0
+India,24,22124.0,28582.0,,

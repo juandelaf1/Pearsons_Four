@@ -1,0 +1,18 @@
+﻿country_name,role_normalized,n_records,median_salary
+Canada,Data Scientist,7,75774.0
+Canada,Data Analyst,11,71786.0
+France,Data Scientist,8,50484.0
+Germany,ML Engineer,6,86466.0
+Germany,Data Scientist,13,79833.0
+Germany,Data Engineer,5,58035.0
+Greece,Data Engineer,5,65949.0
+India,Data Scientist,11,29751.0
+Spain,Other,62,3290022.0
+Spain,Data Scientist,26,51405.0
+Spain,Data Engineer,9,49461.0
+United Kingdom,Data Scientist,12,84286.0
+United Kingdom,Data Engineer,23,78526.0
+United Kingdom,Data Analyst,7,51519.0
+United States,ML Engineer,81,176800.0
+United States,AI Engineer,11,176800.0
+United States,Data Architect,37,162000.0
