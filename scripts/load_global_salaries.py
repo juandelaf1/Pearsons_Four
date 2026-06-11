@@ -147,41 +147,12 @@ def load_kaggle_ds_unified() -> pd.DataFrame:
 
 
 def load_spain_unified() -> pd.DataFrame:
-    """Load Spain scraped data in unified format."""
-    path = DATA_DIR / 'espana' / 'spain_tech_salaries_scraped.csv'
-    if not path.exists():
-        print('  [Global] Spain data not found')
-        return pd.DataFrame()
-
-    raw = pd.read_csv(path, encoding='utf-8-sig')
-    df = raw.copy()
-
-    def parse_salary_range(r: str) -> float | None:
-        if pd.isna(r):
-            return None
-        r = str(r).replace('.', '').replace(',', '.')
-        parts = [p.strip() for p in r.replace('—', '-').split('-')]
-        vals = []
-        for p in parts:
-            num = ''.join(c for c in p if c.isdigit() or c in '.,')
-            if num:
-                try:
-                    vals.append(float(num.replace(',', '.')))
-                except ValueError:
-                    pass
-        return (min(vals) + max(vals)) / 2 if vals else None
-
-    df['job_title'] = df['rol']
-    df['role_normalized'] = df['rol'].apply(lambda t: normalize_title(t)['role'])
-    df['seniority'] = df['experiencia']
-    df['country'] = 'ES'
-    df['country_name'] = 'Spain'
-    df['salary_usd'] = df['rango_salarial'].apply(parse_salary_range)
-    df['year'] = 2026
-
-    print(f'  [Global] Spain: {len(df)} records ({df["salary_usd"].notna().sum()} with salary)')
-    return df[['job_title', 'role_normalized', 'seniority', 'salary_usd',
-               'country', 'country_name', 'year']]
+    """Load Spain 2026 data from multi-source loader."""
+    from load_spain_2026 import build_spain_2026_dataset
+    df = build_spain_2026_dataset(n_per_role=200)
+    if not df.empty:
+        print(f'  [Global] Spain 2026: {len(df)} records')
+    return df
 
 
 def load_eurostat_context() -> pd.DataFrame:
