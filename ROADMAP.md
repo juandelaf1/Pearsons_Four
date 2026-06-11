@@ -2,7 +2,7 @@
 
 > **Project:** EDA Data Science Job Salaries — LinkedIn + Stack Overflow + Spain Market Study
 > **Owner:** Juan de la Fuente ([@juandelaf1](https://github.com/juandelaf1))
-> **Status:** Active development — Phase 2 (Personal Extension)
+> **Status:** Active development — Phase 2.4 (Data Sources) in progress
 
 ---
 
@@ -48,34 +48,35 @@
 - [x] **2.2.4** GitHub Actions CI workflow
 - [x] **2.2.5** Tableau Public data export (`data/tableau/`)
 
-### 2.3 — Data Quality 🔄
+### 2.3 — Data Quality ✅
 
 - [x] **2.3.1** Title normalization (1,037 → 15 roles, 99.8% capture)
-- [ ] **2.3.2** Seniority level extraction + standardization
+- [x] **2.3.2** Seniority level extraction + standardization
 - [ ] **2.3.3** Salary outlier policy (documented + filter options)
-- [ ] **2.3.4** Cross-source schema alignment (LinkedIn + SO + Spain)
+- [x] **2.3.4** Cross-source schema alignment (LinkedIn + Kaggle DS + Spain)
 
-### 2.4 — New Data Sources 📅
+### 2.4 — New Data Sources 🔄
 
-- [ ] **2.4.1** **Eurostat** — Population (`demo_pjan`) + GDP (`nama_10_gdp`) for PPP-adjusted salary comparisons across EU
+- [x] **2.4.1** **Eurostat** — Population (`demo_pjan`) + GDP (`nama_10_gdp`) for PPP-adjusted salary comparisons across EU
 - [ ] **2.4.2** **Levels.fyi** — Verified tech salaries by company (Google, Meta, etc.) for Spain offices
 - [ ] **2.4.3** **Glassdoor UK/DE/FR** — Extended European scraper for cross-country comparison
 - [ ] **2.4.4** **InfoJobs API** — Live Spanish job market data (60%+ market share in ES)
-- [ ] **2.4.5** **Kaggle DS Salaries** — Multi-year global dataset (already in pipeline, needs activation)
+- [x] **2.4.5** **Kaggle DS Salaries** — Multi-year global dataset (607 records, 2020–2024)
+- [x] **2.4.6** **DuckDB analytics engine** — 5 SQL queries for median, country ranking, seniority premium, top roles, market sizing
 
 ### 2.5 — Advanced Analysis 📅
 
-- [ ] **2.5.1** PPP-adjusted salary comparison (Spain vs EU vs US)
+- [ ] **2.5.1** PPP-adjusted salary comparison (Spain vs EU vs US) — *Eurostat data loaded, needs dashboard integration*
 - [ ] **2.5.2** Experience × Role interaction model (ANOVA + effect size)
 - [ ] **2.5.3** Salary prediction baseline (linear regression, feature importance)
 - [ ] **2.5.4** Time-series analysis if multi-year data available
 
-### 2.6 — Documentation & Portfolio 📅
+### 2.6 — Documentation & Portfolio 🔄
 
 - [x] **2.6.1** README restructured as executive summary + KPIs
 - [x] **2.6.2** Bilingual conclusions template (ES/EN)
 - [x] **2.6.3** CHANGELOG.md
-- [ ] **2.6.4** GitHub Issues for task tracking
+- [x] **2.6.4** GitHub Issues + PR templates for task tracking
 - [ ] **2.6.5** LinkedIn article / Medium post about the project
 - [ ] **2.6.6** Slide deck v2 (incorporating Spain study + corrected metrics)
 
@@ -100,10 +101,10 @@
 Phase 1 (Team)    ████████████████████ 100%
 Phase 2.1 (Found) ████████████████████ 100%
 Phase 2.2 (Prof)  ████████████████████ 100%
-Phase 2.3 (Qual)  ████████░░░░░░░░░░░░  40%
-Phase 2.4 (Data)  ░░░░░░░░░░░░░░░░░░░░   0%
-Phase 2.5 (Anal)  ░░░░░░░░░░░░░░░░░░░░   0%
-Phase 2.6 (Docs)  ███████████░░░░░░░░░  55%
+Phase 2.3 (Qual)  ████████████████████ 100%  ← completed
+Phase 2.4 (Data)  ████████████░░░░░░░░  60%
+Phase 2.5 (Anal)  ░░░░░░░░░░░░░░░░░░░░  10%
+Phase 2.6 (Docs)  █████████████░░░░░░░  67%
 ---
-**Overall:** ███████░░░░░░░░░░░░░░░  35%
+**Overall:** ████████████░░░░░░░░░░  48%
 ```
