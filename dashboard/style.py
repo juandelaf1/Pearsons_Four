@@ -1,1 +1,160 @@
-import streamlit as stdef apply_custom_css():    st.markdown("""    <style>        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');        html, body, [class*="css"] {            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;        }        .main > div {            padding: 0 2rem;        }        .kpi-card {            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);            border: 1px solid rgba(255,255,255,0.08);            border-radius: 16px;            padding: 1.5rem;            box-shadow: 0 4px 24px rgba(0,0,0,0.3);            transition: transform 0.2s ease, box-shadow 0.2s ease;        }        .kpi-card:hover {            transform: translateY(-2px);            box-shadow: 0 8px 32px rgba(0,0,0,0.4);        }        .kpi-label {            font-size: 0.85rem;            font-weight: 500;            color: #8b8fa3;            text-transform: uppercase;            letter-spacing: 0.06em;            margin-bottom: 0.25rem;        }        .kpi-value {            font-size: 2rem;            font-weight: 700;            color: #ffffff;            line-height: 1.2;        }        .kpi-delta {            font-size: 0.8rem;            font-weight: 500;            margin-top: 0.25rem;        }        .kpi-delta.positive { color: #4ade80; }        .kpi-delta.negative { color: #f87171; }        .section-header {            font-size: 1.5rem;            font-weight: 700;            color: #f1f5f9;            margin: 2rem 0 1rem 0;            padding-bottom: 0.5rem;            border-bottom: 2px solid rgba(99,102,241,0.3);        }        .insight-box {            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);            border: 1px solid rgba(99,102,241,0.2);            border-left: 4px solid #6366f1;            border-radius: 12px;            padding: 1.25rem;            margin: 1rem 0;        }        .insight-box h4 {            color: #a5b4fc;            font-size: 0.9rem;            font-weight: 600;            text-transform: uppercase;            letter-spacing: 0.05em;            margin: 0 0 0.5rem 0;        }        .insight-box p {            color: #e2e8f0;            margin: 0;            font-size: 0.95rem;            line-height: 1.6;        }        .insight-box strong {            color: #f1f5f9;        }        .dataframe {            border: none !important;            border-radius: 12px !important;            overflow: hidden !important;        }        .dataframe thead tr th {            background-color: #1e293b !important;            color: #94a3b8 !important;            font-weight: 600 !important;            font-size: 0.8rem !important;            text-transform: uppercase !important;            letter-spacing: 0.04em !important;            padding: 0.75rem 1rem !important;            border: none !important;        }        .dataframe tbody tr td {            background-color: #0f172a !important;            color: #e2e8f0 !important;            padding: 0.5rem 1rem !important;            border-bottom: 1px solid #1e293b !important;        }        .dataframe tbody tr:hover td {            background-color: #1a2332 !important;        }        div[data-testid="stSidebar"] {            background-color: #0a0e1a;            border-right: 1px solid rgba(255,255,255,0.05);        }        div[data-testid="stSidebar"] .sidebar-content {            padding: 1.5rem 1rem;        }        div[data-testid="stMetric"] {            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);            border: 1px solid rgba(255,255,255,0.08);            border-radius: 12px;            padding: 1rem;            box-shadow: 0 2px 12px rgba(0,0,0,0.2);        }        div[data-testid="stMetric"] label {            color: #8b8fa3 !important;            font-size: 0.8rem !important;            font-weight: 500 !important;            text-transform: uppercase !important;            letter-spacing: 0.04em !important;        }        div[data-testid="stMetric"] div[data-testid="stMetricValue"] {            color: #f1f5f9 !important;            font-weight: 700 !important;        }        .stTabs [data-baseweb="tab-list"] {            gap: 0.5rem;            background-color: #0f172a;            padding: 0.5rem;            border-radius: 12px;        }        .stTabs [data-baseweb="tab"] {            border-radius: 8px;            padding: 0.5rem 1rem;            color: #94a3b8;            font-weight: 500;            transition: all 0.2s ease;        }        .stTabs [data-baseweb="tab"]:hover {            color: #e2e8f0;            background-color: rgba(99,102,241,0.1);        }        .stTabs [aria-selected="true"] {            background-color: #6366f1 !important;            color: #ffffff !important;        }        .stButton button {            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);            color: white;            border: none;            border-radius: 8px;            padding: 0.5rem 1.5rem;            font-weight: 600;            font-size: 0.9rem;            transition: all 0.2s ease;        }        .stButton button:hover {            transform: translateY(-1px);            box-shadow: 0 4px 16px rgba(99,102,241,0.4);        }        hr {            border-color: rgba(255,255,255,0.06) !important;            margin: 2rem 0 !important;        }        @media (max-width: 768px) {            .main > div { padding: 0 1rem; }            .kpi-value { font-size: 1.5rem; }        }    </style>    """, unsafe_allow_html=True)
+import streamlit as st
+
+
+def apply_custom_css():
+    st.markdown("""
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+        html, body, [class*="css"] {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+
+        .main > div {
+            padding: 0 2rem;
+        }
+
+        .kpi-card {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.3);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .kpi-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+        }
+        .kpi-label {
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: #8b8fa3;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin-bottom: 0.25rem;
+        }
+        .kpi-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #ffffff;
+            line-height: 1.2;
+        }
+        .kpi-delta {
+            font-size: 0.8rem;
+            font-weight: 500;
+            margin-top: 0.25rem;
+        }
+        .kpi-delta.positive { color: #4ade80; }
+        .kpi-delta.negative { color: #f87171; }
+
+        .section-header {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #f1f5f9;
+            margin: 2rem 0 1rem 0;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid rgba(99,102,241,0.3);
+        }
+
+        .insight-box {
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            border: 1px solid rgba(99,102,241,0.2);
+            border-left: 4px solid #6366f1;
+            border-radius: 12px;
+            padding: 1.25rem;
+            margin: 1rem 0;
+        }
+        .insight-box h4 {
+            color: #a5b4fc;
+            font-size: 0.9rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin: 0 0 0.5rem 0;
+        }
+        .insight-box p {
+            color: #e2e8f0;
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        .insight-box strong {
+            color: #f1f5f9;
+        }
+
+        div[data-testid="stSidebar"] {
+            background-color: #0a0e1a;
+            border-right: 1px solid rgba(255,255,255,0.05);
+        }
+        div[data-testid="stSidebar"] .sidebar-content {
+            padding: 1.5rem 1rem;
+        }
+
+        div[data-testid="stMetric"] {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 12px;
+            padding: 1rem;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+        }
+        div[data-testid="stMetric"] label {
+            color: #8b8fa3 !important;
+            font-size: 0.8rem !important;
+            font-weight: 500 !important;
+            text-transform: uppercase !important;
+            letter-spacing: 0.04em !important;
+        }
+        div[data-testid="stMetric"] div[data-testid="stMetricValue"] {
+            color: #f1f5f9 !important;
+            font-weight: 700 !important;
+        }
+
+        .stTabs [data-baseweb="tab-list"] {
+            gap: 0.5rem;
+            background-color: #0f172a;
+            padding: 0.5rem;
+            border-radius: 12px;
+        }
+        .stTabs [data-baseweb="tab"] {
+            border-radius: 8px;
+            padding: 0.5rem 1rem;
+            color: #94a3b8;
+            font-weight: 500;
+            transition: all 0.2s ease;
+        }
+        .stTabs [data-baseweb="tab"]:hover {
+            color: #e2e8f0;
+            background-color: rgba(99,102,241,0.1);
+        }
+        .stTabs [aria-selected="true"] {
+            background-color: #6366f1 !important;
+            color: #ffffff !important;
+        }
+
+        .stButton button {
+            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.5rem 1.5rem;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+        .stButton button:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 16px rgba(99,102,241,0.4);
+        }
+
+        hr {
+            border-color: rgba(255,255,255,0.06) !important;
+            margin: 2rem 0 !important;
+        }
+
+        @media (max-width: 768px) {
+            .main > div { padding: 0 1rem; }
+            .kpi-value { font-size: 1.5rem; }
+        }
+    </style>
+    """, unsafe_allow_html=True)

@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/juandelaf1/DataScope/actions"><img src="https://img.shields.io/github/actions/workflow/status/juandelaf1/DataScope/ci.yml?branch=main&label=CI&logo=github" alt="CI"></a>
-  <a href="https://hub.docker.com/r/juandelaf1/datascope"><img src="https://img.shields.io/docker/v/juandelaf1/datascope?label=Docker&logo=docker" alt="Docker"></a>
+  <a href="https://github.com/juandelaf1/Pearsons_Four/actions"><img src="https://img.shields.io/github/actions/workflow/status/juandelaf1/Pearsons_Four/ci.yml?branch=main&label=CI&logo=github" alt="CI"></a>
+  <a href="https://hub.docker.com/r/juandelaf/datascope"><img src="https://img.shields.io/docker/v/juandelaf/datascope?label=Docker&logo=docker" alt="Docker"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.11-blue?logo=python" alt="Python 3.11"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"></a>
-  <a href="https://www.kaggle.com/juandelaf1/datascope"><img src="https://img.shields.io/badge/kaggle-dataset-20BEFF?logo=kaggle" alt="Kaggle"></a>
-  <a href="https://github.com/juandelaf1/DataScope"><img src="https://img.shields.io/github/stars/juandelaf1/DataScope?style=flat&logo=github" alt="GitHub stars"></a>
+  <a href="https://www.kaggle.com/datasets/juandelaf/datascope-salary-analytics"><img src="https://img.shields.io/badge/kaggle-dataset-20BEFF?logo=kaggle" alt="Kaggle"></a>
+  <a href="https://github.com/juandelaf1/Pearsons_Four"><img src="https://img.shields.io/github/stars/juandelaf1/Pearsons_Four?style=flat&logo=github" alt="GitHub stars"></a>
 </p>
 
 ---
@@ -120,7 +120,7 @@ Five tabs: LinkedIn Salaries → Global Unified → Spain 2026 → Analytics →
 
 ```bash
 # Clone
-git clone https://github.com/juandelaf1/DataScope.git
+git clone https://github.com/juandelaf1/Pearsons_Four.git
 cd DataScope
 
 # Install with uv

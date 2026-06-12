@@ -29,7 +29,7 @@ requires = ["setuptools>=64"]
 build-backend = "setuptools.build_meta"
 
 [project.urls]
-Repository = "https://github.com/juandelaf1/DataScope"
+Repository = "https://github.com/juandelaf1/Pearsons_Four"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

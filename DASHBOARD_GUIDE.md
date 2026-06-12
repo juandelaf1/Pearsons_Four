@@ -50,6 +50,6 @@ Las páginas aparecen automáticamente en la barra lateral. Usa los filtros en l
 
 ## Enlaces
 
-- GitHub: https://github.com/juandelaf1/DataScope
+- GitHub: https://github.com/juandelaf1/Pearsons_Four
 - DockerHub: https://hub.docker.com/r/juandelaf/datascope
 - Kaggle Dataset: https://www.kaggle.com/datasets/juandelaf/datascope-salary-analytics
