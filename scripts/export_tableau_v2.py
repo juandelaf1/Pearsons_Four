@@ -167,12 +167,12 @@ def export_consolidated_v2():
 
     out = pd.concat(parts, ignore_index=True)
 
-    out_path = OUTPUT_DIR / 'pearsons_four_consolidated.csv'
+    out_path = OUTPUT_DIR / 'datascope_consolidated.csv'
     out.to_csv(out_path, index=False, encoding='utf-8-sig')
 
     # Also save a clean version with basic salary sanity filter
     clean = out[out['Salary_EUR'].isna() | (out['Salary_EUR'] < 500000)].copy()
-    clean_path = OUTPUT_DIR / 'pearsons_four_clean.csv'
+    clean_path = OUTPUT_DIR / 'datascope_clean.csv'
     clean.to_csv(clean_path, index=False, encoding='utf-8-sig')
 
     print(f"\nConsolidated: {len(out)} records total -> {out_path}")

@@ -1,6 +1,6 @@
-# 🗺️ ROADMAP — Pearsons Four
+# 🗺️ ROADMAP — DataScope
 
-> **Project:** EDA Data Science Job Salaries — LinkedIn + Stack Overflow + Spain Market Study
+> **Project:** Multi-Source Salary Analytics: LinkedIn, Kaggle, Spain (Manfred 2026, Glassdoor), DuckDB, PPP-adjusted
 > **Owner:** Juan de la Fuente ([@juandelaf1](https://github.com/juandelaf1))
 > **Status:** Active development — Phase 2.4 (Data Sources) in progress
 

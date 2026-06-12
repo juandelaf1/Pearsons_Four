@@ -1,7 +1,7 @@
 [project]
-name = "pearsons-four"
-version = "2.0.0"
-description = "EDA Data Science Job Salaries — LinkedIn + Stack Overflow + Spain Market Study"
+name = "datascope"
+version = "3.0.0"
+description = "DataScope — Multi-Source Salary Analytics: LinkedIn, Kaggle, Spain (Manfred 2026, Glassdoor), DuckDB, PPP-adjusted"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -24,8 +24,12 @@ dependencies = [
     "tabulate>=0.9",
 ]
 
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
 [project.urls]
-Repository = "https://github.com/juandelaf1/Pearsons_Four"
+Repository = "https://github.com/juandelaf1/DataScope"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

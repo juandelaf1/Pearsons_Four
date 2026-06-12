@@ -1,6 +1,6 @@
 <#:
 .SYNOPSIS
-  End-to-end pipeline for Pearson's Four project.
+  End-to-end pipeline for DataScope project.
 .DESCRIPTION
   Runs the complete data pipeline: scrape -> clean -> analyze -> visualize -> test.
   Usage: .\run_all.ps1 [-SkipScrape] [-SkipViz] [-SkipTests] [-SkipDashboard]

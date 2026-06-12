@@ -1,4 +1,4 @@
-# Pearsons Four — Team Guide / Guía del Equipo
+# DataScope — Team Guide / Guía del Equipo
 
 **Bilingual — English / Español**
 
@@ -101,15 +101,15 @@ main (protected — no direct pushes)
 ## 4. Project Structure / Estructura del Proyecto
 
 ```
-Pearsons_Four/
+DataScope/
 ├── screenshots/                 # Banner + capturas de gráficos
 │   └── banner.png
 ├── docs/
 │   ├── GUIDE.md                 # This file / Este archivo
 │   └── trello_template.json
 ├── notebooks/
-│   ├── Pearsons_Four_EDA_Linkedin.ipynb              # LinkedIn EDA (full)
-│   └── VGGPearsonsFour.ipynb                         # Bias + Cross-dataset (Vanessa)
+│   ├── datascope_eda_linkedin.ipynb              # LinkedIn EDA (full)
+│   └── datascope_bias_analysis.ipynb                         # Bias + Cross-dataset (Vanessa)
 ├── data/
 │   └── linkedin_data_roles_procesed.csv              # Cleaned LinkedIn data roles
 ├── .github/
@@ -201,5 +201,5 @@ A task is complete when:
 
 ---
 
-*Pearsons Four — Module II: Data Analysis & Visualization*
+*DataScope — Module II: Data Analysis & Visualization*
 *May 2026*

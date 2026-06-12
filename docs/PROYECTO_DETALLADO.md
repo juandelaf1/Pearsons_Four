@@ -1,6 +1,6 @@
-# Pearson's Four - Proyecto DataTalent Solutions S.L.
+# DataScope - Proyecto DataTalent Solutions S.L.
 
-Este repositorio documenta el desarrollo completo del proyecto **Pearson's Four**, realizado como parte del módulo de Análisis y Visualización de Datos.
+Este repositorio documenta el desarrollo completo del proyecto **DataScope** (formerly Pearson's Four), realizado como parte del módulo de Análisis y Visualización de Datos.
 
 ## 1. Resumen Ejecutivo
 El proyecto proporciona a *DataTalent Solutions S.L.* evidencia empírica sobre el mercado laboral de perfiles técnicos (Data Science). Analizamos dos fuentes de datos para identificar factores salariales, habilidades demandadas y sesgos del mercado.
@@ -19,7 +19,7 @@ El proyecto proporciona a *DataTalent Solutions S.L.* evidencia empírica sobre 
 
 ### Fase 1: Ingeniería y Limpieza (Juan)
 - **Desafío:** Dataset de 123,849 registros con >70% de nulos en salarios.
-- **Acción:** Implementación del *"Pearson's Pipeline"*.
+- **Acción:** Implementación del pipeline de datos.
 - **Decisión:** Filtrado mediante Rango Intercuartílico (IQR) para eliminar valores extremos.
 - **Resultado:** Obtención de una muestra de alta fidelidad con **607 registros** clave para el análisis de roles.
 

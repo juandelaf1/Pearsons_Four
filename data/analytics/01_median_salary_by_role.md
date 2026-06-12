@@ -36,8 +36,7 @@
 | Spain     | Product Manager            |         165 |              50,760 |            50,497 |  41,040 |  55,188 |
 | Spain     | ML Engineer                |         219 |              49,464 |            55,335 |  41,688 |  68,904 |
 | Spain     | Analytics General          |           2 |              49,297 |            49,297 |  47,224 |  51,371 |
-| Spain     | Tech General               |           1 |              48,658 |            48,658 |  48,658 |  48,658 |
-| Spain     | Data Scientist             |         296 |              48,006 |            53,797 |  38,868 |  64,881 |
+| Spain     | Data Scientist             |         278 |              47,790 |            52,047 |  38,868 |  64,206 |
 | Spain     | AI Engineer                |         205 |              47,304 |            52,362 |  35,640 |  65,556 |
 | Spain     | DevOps Engineer            |         215 |              45,792 |            48,527 |  40,338 |  57,132 |
 | Spain     | Data Engineer              |         241 |              45,684 |            50,638 |  40,608 |  59,400 |

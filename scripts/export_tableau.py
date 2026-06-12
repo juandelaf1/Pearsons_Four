@@ -124,7 +124,7 @@ def export_consolidated():
             })
 
     out = pd.DataFrame(records)
-    out_path = OUTPUT_DIR / 'pearsons_four_consolidated_tableau.csv'
+    out_path = OUTPUT_DIR / 'datascope_consolidated_tableau.csv'
     out.to_csv(out_path, index=False, encoding='utf-8-sig')
     print(f"Consolidated: {len(out)} records -> {out_path}")
     return out
@@ -132,7 +132,7 @@ def export_consolidated():
 
 def main():
     print("=" * 60)
-    print("EXPORT TABLEAU - PEARSON'S FOUR")
+    print("EXPORT TABLEAU - DATASCOPE")
     print("=" * 60)
 
     print("\n--- LinkedIn Data Roles ---")
@@ -150,7 +150,7 @@ def main():
         print(f"  {f.name} ({f.stat().st_size / 1e3:.0f} KB)")
     print(f"{'='*60}")
     print("\n>> Abre Tableau Public -> Conectar -> Texto/CSV -> selecciona un archivo")
-    print(">> Recomendado: pearsons_four_consolidated_tableau.csv para dashboard completo")
+    print(">> Recomendado: datascope_consolidated_tableau.csv para dashboard completo")
 
 
 if __name__ == '__main__':

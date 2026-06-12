@@ -1,6 +1,6 @@
 """
 generate_plotly_viz.py — Interactive Plotly visualizations
-Generates interactive HTML charts for the Pearson's Four project.
+Generates interactive HTML charts for the DataScope project.
 Replaces static Matplotlib/Seaborn with Plotly for hover, zoom, pan.
 """
 import pandas as pd

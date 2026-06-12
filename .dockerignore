@@ -1,0 +1,15 @@
+.git/
+.gitignore
+__pycache__/
+*.pyc
+notebooks/
+slides/
+screenshots/
+tests/
+scripts/
+docs/
+ROADMAP.md
+CHANGELOG.md
+AGENTS.md
+.env
+*.pptx
